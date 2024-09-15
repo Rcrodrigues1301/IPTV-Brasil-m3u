@@ -1,1 +1,120 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://seeklogo.com/images/A/a-e-television-logo-CF105A873E-seeklogo.com.png" group-title="Canais | Filmes & Series",A&E SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/663
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Canais | Noticias",AgroMais SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/461
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://seeklogo.com/images/A/amc-logo-8FFD80A995-seeklogo.com.png" group-title="Canais | Filmes & Series",AMC SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/668
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png" group-title="Canais | Filmes & Series",AXN SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/673
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BABYTV.png" group-title="Canais | Infantil",Baby TV SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/349
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png" group-title="Canais | Noticias",Band News SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/466
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/232
+#EXTINF:-1 tvg-id="" tvg-name="Brtvmax SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/385619
+#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALDOBOI.png" group-title="Canais |  Abertos",Canal do Boi SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/141
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://play-lh.googleusercontent.com/fv2t4tFKJANqwXsaaG5EsjbOMS5zeX360nGmDASnuvqi6c-BdoNzTJMsNPS3TEJP6pE=w600-h300-pc0xffffff-pd" group-title="Canais | Filmes & Series",Canal Sony SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/699
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/350
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://seeklogo.com/images/C/cinemax-logo-45F30CC760-seeklogo.com.png" group-title="Canais | Filmes & Series",Cinemax SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/679
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" group-title="Canais | Noticias",CNN Brasil SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/471
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/118887
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/237
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD²
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/118760
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://seeklogo.com/images/C/comedy-central-2018-logo-B22BF964D3-seeklogo.com.png" group-title="Canais | Filmes & Series",Comedy Central SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/684
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name=" TV Cultura SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png" group-title="Canais |  Abertos", TV Cultura SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/147
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2609
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2574
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2569
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2579
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2584
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2589
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2594
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/362
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/355
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2470
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/227
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/207
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/212
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3  SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/217
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/222
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/247
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2478
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="FOX Sports 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/242
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png" group-title="Canais |  Abertos",Futura SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/157
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/591
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2450
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2387
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2384
+#EXTINF:-1 tvg-id="eptvsp.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2381
+#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/112633
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2435
+#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales  SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/117422
+#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo Minas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2377
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2426
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2288
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2456
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2308
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2294
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2300
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2303
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2329
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2326
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2332
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2311
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista SD
+http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2353
+#EXTINF:-1 tvg-id="" tvg-name="Inglaterra 3 x 0 País De Gales (Grupo B)" tvg-logo="https://raw.githubusercontent.com/Rcrodrigues1301/Logotipo/main/ficha-pais-de-gales-x-inglaterra.png" group-title="Filmes | Copa Do Mundo 2022"
+http://uniplay.proxytv.in:80/movie/282870230/f883s3010m/215863.mp4
