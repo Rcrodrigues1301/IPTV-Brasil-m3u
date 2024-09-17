@@ -1,8 +1,3 @@
 #EXTM3U
-
-EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://seeklogo.com/images/A/a-e-television-logo-CF105A873E-seeklogo.com.png" group-title="Canais | Filmes & Series",A&E SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/663
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Canais | Noticias",AgroMais SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/461
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://seeklogo.com/images/A/amc-logo-8FFD80A995-seeklogo.com.png" group-title="Canais | Filmes & Series"
-https://tv.vidatel.com.br/hls/tvclubehd/live.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="" group-title="Canais | Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
