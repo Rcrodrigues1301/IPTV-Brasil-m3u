@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://seeklogo.com/images/R/record-news-logo-6DFE065C55-seeklogo.com.png" group-title="Canais | Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT BA" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | Notícias", SBT BA
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT BA" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | SBT", SBT BA
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV" tvg-logo="https://seeklogo.com/images/R/rede-tv-logo-54D269B8B3-seeklogo.com.png" group-title="Canais | Notícias", Rede TV
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Interior SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | Notícias", SBT Interior SP
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Interior SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | SBT", SBT Interior SP
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" tvg-logo="https://seeklogo.com/images/J/jovem-pan-am-logo-84D44F2669-seeklogo.com.png" group-title="Canais | Notícias",Jovem Pan News
 https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
