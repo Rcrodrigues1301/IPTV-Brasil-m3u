@@ -546,5 +546,5 @@ http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367318.m3u8
 http://uniplay.proxytv.in:80/live/282870230/f883s3010m/355.m3u8
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
 http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2472.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://seeklogo.com/images/R/record-news-logo-6DFE065C55-seeklogo.com.png" group-title="Canais | Notícias",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://seeklogo.com/images/R/record-news-logo-6DFE065C55-seeklogo.com.png" group-title="Canais | Noticias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
