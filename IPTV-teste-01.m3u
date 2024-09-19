@@ -5,3 +5,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-2 tvg-id="RedeTV.br" tvg-name="Rede TV" tvg-logo="https://seeklogo.com/images/R/rede-tv-logo-54D269B8B3-seeklogo.com.png" group-title="Canais | Notícias"
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-2 tvg-id="SBT.br" tvg-name="SBT Interior SP" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | Notícias"
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
