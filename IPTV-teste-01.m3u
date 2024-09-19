@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://seeklogo.com/images/R/record-news-logo-6DFE065C55-seeklogo.com.png" group-title="Canais | Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-2 tvg-id="SBT.br" tvg-name="SBT RIBEIRÃO PRETO" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | SBT
+#EXTINF:-2 tvg-id="SBT.br" tvg-name="SBT RIBEIRÃO PRETO" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais | Notícias"
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726728263/ei/53PrZpXIIPfCobIPzpPlmA8/ip/2804%3A18%3A7006%3Aaee6%3A1%3A0%3Ac19e%3Aebf0/id/0vpKaiUJ7aU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51279999/txs/51279999%2C51280000%2C51280001%2C51280002/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/hightc/yes/siu/1/spc/54MbxWgRept8eHJqHVbGIT4yjUZCqqlhsni-RD9_Hn8HfPnVQAcKMxAYSpA0WablColsXYDZwEIOdac/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Chightc%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAWe1eUQCm5WUo7TVOL9vi95KNhBCRUMAQDQ_AEygLSoCIQDGlkTn1ON2DGzIrgjvex-06S2Fhir0t3OfzStMZOvuXA%3D%3D/file/index.m3u8
 #EXTINF:-3 tvg-id="Redetv.br" tvg-nsme="Rede TV" tv-logo="https://seeklogo.com/images/R/rede-tv-logo-54D269B8B3-seeklogo.com.png" group-title="Canais | Notícias"
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
