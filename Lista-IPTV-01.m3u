@@ -1,594 +1,100 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://seeklogo.com/images/A/a-e-television-logo-CF105A873E-seeklogo.com.png" group-title="Canais | Filmes & Series",A&E SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/663
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Canais | Noticias",AgroMais SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/461
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://seeklogo.com/images/A/amc-logo-8FFD80A995-seeklogo.com.png" group-title="Canais | Filmes & Series",AMC SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/668
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png" group-title="Canais | Filmes & Series",AXN SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/673
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BABYTV.png" group-title="Canais | Infantil",Baby TV SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/349
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png" group-title="Canais | Noticias",Band News SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/466
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/232
-#EXTINF:-1 tvg-id="" tvg-name="Brtvmax SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/385619
-#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALDOBOI.png" group-title="Canais |  Abertos",Canal do Boi SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/141
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://play-lh.googleusercontent.com/fv2t4tFKJANqwXsaaG5EsjbOMS5zeX360nGmDASnuvqi6c-BdoNzTJMsNPS3TEJP6pE=w600-h300-pc0xffffff-pd" group-title="Canais | Filmes & Series",Canal Sony SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/699
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/350
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://seeklogo.com/images/C/cinemax-logo-45F30CC760-seeklogo.com.png" group-title="Canais | Filmes & Series",Cinemax SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/679
-#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" group-title="Canais | Noticias",CNN Brasil SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/471
-#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/118887
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/237
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD²
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/118760
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://seeklogo.com/images/C/comedy-central-2018-logo-B22BF964D3-seeklogo.com.png" group-title="Canais | Filmes & Series",Comedy Central SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/684
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name=" TV Cultura SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVCULTURA.png" group-title="Canais |  Abertos", TV Cultura SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/147
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2609
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2574
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2569
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2579
-#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2584
-#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2589
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2594
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/362
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/355
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2470
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/227
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/207
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/212
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3  SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/217
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/222
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/247
-#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2478
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="FOX Sports 2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2 SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/242
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FUTURA.png" group-title="Canais |  Abertos",Futura SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/157
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/591
-#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2450
-#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2387
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2384
-#EXTINF:-1 tvg-id="eptvsp.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2381
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/112633
-#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2435
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales  SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/117422
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo Minas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2377
-#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2426
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2288
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2456
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2308
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2294
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2300
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2303
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2329
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2326
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2332
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2311
-#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista SD
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/2353
-#EXTINF:-1 tvg-id="" tvg-name="Inglaterra 3 x 0 País De Gales (Grupo B)" tvg-logo="https://raw.githubusercontent.com/Rcrodrigues1301/Logotipo/main/Pais-de-Gales-x-Inglaterra.png" group-title="Filmes | Copa Do Mundo 2022"
-http://uniplay.proxytv.in:80/movie/282870230/f883s3010m/215863.mp4
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284576.m3u8
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284578.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere 2 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284579.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN3 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284580.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN4 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284581.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX SPORTS 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284582.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX Sports 2 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284583.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284584.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN Extra 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284585.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284587.m3u8
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284589.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284590.m3u8
-#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | 4K",CNN Brasil 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284591.m3u8
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="Jovem Pan News 4K " tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | 4K",Jovem Pan News 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284593.m3u8
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | 4K",Universal TV 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284596.m3u8
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Action 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284597.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Pipoca 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284598.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Premium 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284599.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | 4K",AXN 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284601.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC  4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | 4K",AMC  4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284602.m3u8
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | 4K",HBO 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284603.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284604.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channe 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Disc. Channe 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284605.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4K " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | 4K",Animal Planet 4K 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284607.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | 4K",Cartoon Network 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284611.m3u8
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | 4K",Star Channel 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284612.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | 4K",Curta! 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284614.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284615.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" group-title="Canais | 4K",Viva 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284616.m3u8
-#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | 4K",TNT Series 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284617.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | 4K",Disc. Turbo 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284618.m3u8
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | 4K",Comedy Central 4K
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/284620.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289881.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289882.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289883.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289884.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289885.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Eventos Extras FHD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Eventos Extras FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289716.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Olympia TV HD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289717.m3u8
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Olympia TV FHD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/289718.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="FIFA+ HD" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="Canais | Pay-per-view",FIFA+ HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/250892.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/309458.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21315.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/123947.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/208.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/231647.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/209.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/207.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/215.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/52091.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/362050.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/213.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/214.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/212.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/220.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21235.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/362051.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/218.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/219.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3  SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/217.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/225.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21318.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/362052.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/223.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/224.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/222.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/230.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21236.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN Extra H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/362053.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/228.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra虏 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra虏 HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/229.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/227.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/384589.m3u8
-#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/376344.m3u8
-#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/376345.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/671.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/669.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/670.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/668.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/118881.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21275.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/52090.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/547.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SPORTV HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/548.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/546.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV  SD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV  SD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/118707.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/554.m3u8
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 2" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 2
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/274650.m3u8
-#EXTINF:-1 tvg-id="Appletvplus.br" tvg-name="APPLE TV 3" tvg-logo="https://m.media-amazon.com/images/I/513naL3U+8L.png" group-title="Canais | Pay-per-view",APPLE TV 3
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/274651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup FHD" tvg-logo="https://cdn.vox-cdn.com/thumbor/LCrrR5RpncC9JJ5G9nSEp87JST0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22868679/ESA_2581_copia.jpg" group-title="Canais | Pay-per-view",Leagues Cup FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/231032.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports 4K UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/234278.m3u8
-#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/264555.m3u8
-#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas  HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/264556.m3u8
-#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas  SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/264557.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254096.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254097.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Furacao Live HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254098.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furac茫o Brasileir茫o HD [Casimito]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furac茫o Brasileir茫o HD [Casimito]
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254099.m3u8
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254104.m3u8
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254102.m3u8
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/254103.m3u8
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 2
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/311744.m3u8
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CazeTV 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV 3
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/311745.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS UHD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/250890.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS HD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/369565.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BJJ STARS SD" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/369566.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Kingpyn Boxing FHD" tvg-logo="https://pbs.twimg.com/media/FrcKkJ7WAAA6-Er.jpg" group-title="Canais | Pay-per-view",Kingpyn Boxing FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/250915.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/666.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21292.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/664.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/665.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/663.m3u8
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/464.m3u8
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/462.m3u8
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/461.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2602.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/22305.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/141261.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/365234.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2601.m3u8
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/365235.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2607.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21222.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/141262.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367046.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2606.m3u8
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD " tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 SD 
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367047.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/676.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21223.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/674.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/675.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/673.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BABYTV.png" group-title="Canais | Infantil",Baby TV SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/349.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png" group-title="Canais | Infantil",TOONCAST FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/140944.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png" group-title="Canais | Infantil",TOONCAST UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367330.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png" group-title="Canais | Infantil",TOONCAST HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/140945.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png" group-title="Canais | Infantil",TOONCAST HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367331.m3u8
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TOONCAST.png" group-title="Canais | Infantil",TOONCAST SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/140946.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/469.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/118883.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21224.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/467.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/468.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/466.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/235.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/118755.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21225.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/233.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/234.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD虏." tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD虏.
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/244203.m3u8
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brtvmax FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/385617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brtvmax HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/385618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brtvmax SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/385619.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/146.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/145.m3u8
-#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 01
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/18289.m3u8
-#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 02
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/18288.m3u8
-#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 03
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/18287.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/702.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21229.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/700.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/701.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/699.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/352.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21230.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/351.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367317.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/350.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/141263.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367045.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2611.m3u8
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2609.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2577.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21338.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2575.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2576.m3u8
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2574.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2572.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21295.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2570.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2571.m3u8
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2569.m3u8
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2582.m3u8
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21297.m3u8
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2580.m3u8
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2581.m3u8
-#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2579.m3u8
-#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2587.m3u8
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Disc. Theater UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21298.m3u8
-#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2585.m3u8
-#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2586.m3u8
-#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2584.m3u8
-#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2592.m3u8
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21299.m3u8
-#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2590.m3u8
-#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2591.m3u8
-#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2589.m3u8
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2597.m3u8
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/21300.m3u8
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2595.m3u8
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2596.m3u8
-#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2594.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/364.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367319.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/363.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367320.m3u8
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/362.m3u8
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel UHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/360.m3u8
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/358.m3u8
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/356.m3u8
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel HD虏" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD虏
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/367318.m3u8
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/355.m3u8
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
-http://uniplay.proxytv.in:80/live/282870230/f883s3010m/2472.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://seeklogo.com/images/R/record-news-logo-6DFE065C55-seeklogo.com.png" group-title="Canais | Noticias",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: CAARTON PORN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: CAARTON PORN
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260625
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: BLOWJOB" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: BLOWJOB
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260626
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: BLOND" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: BLOND
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260627
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: BLACK" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: BLACK
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260628
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: BIG COOK" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: BIG COOK
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260629
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: BABYSITER" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: BABYSITER
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260630
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: ASIAN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: ASIAN
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260631
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: ANAL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: ANAL
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260632
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: MY WIFE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: MY WIFE
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260633
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: HD PORN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: HD PORN
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260634
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: NURSE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: NURSE
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260635
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: POLICE OFFICER" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: POLICE OFFICER
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260636
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰CATAGORIES: PRISONERS" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰CATAGORIES: PRISONERS
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260637
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰TRANS: SANTINI" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰TRANS: SANTINI
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260638
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰TRANS: FOXXY" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰TRANS: FOXXY
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260639
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰TRANS: NATALIE MARS" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰TRANS: NATALIE MARS
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260640
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰TRANS: KHLOE KAY" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰TRANS: KHLOE KAY
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260641
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰TRANS: AUBREY KATE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰TRANS: AUBREY KATE
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260642
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰GAY: ARMOND RIZZO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰GAY: ARMOND RIZZO
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260643
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰GAY: ATLAS GRAN" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰GAY: ATLAS GRAN
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260644
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰GAY: CALVIN BANKS" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰GAY: CALVIN BANKS
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260645
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB✰GAY: DANTE JOLLE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png" group-title="Canais | Adultos +18",PORNHUB✰GAY: DANTE JOLLE
-http://uniplay.bigcdn.eu:80/150275607/P191k3524t/260646
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD²" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/701.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
+http://ninsugi.com:80/live/716370707/D183c3278p/699.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/352.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21230.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://ninsugi.com:80/live/716370707/D183c3278p/351.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/367317.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
+http://ninsugi.com:80/live/716370707/D183c3278p/350.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/110683.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/368110.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
+http://ninsugi.com:80/live/716370707/D183c3278p/110684.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/368111.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/682.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21231.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
+http://ninsugi.com:80/live/716370707/D183c3278p/680.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/681.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax SD
+http://ninsugi.com:80/live/716370707/D183c3278p/679.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/474.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD²" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD²
+http://ninsugi.com:80/live/716370707/D183c3278p/118884.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21353.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/380909.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://ninsugi.com:80/live/716370707/D183c3278p/472.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+http://ninsugi.com:80/live/716370707/D183c3278p/471.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional  HD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+http://ninsugi.com:80/live/716370707/D183c3278p/118886.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://storage4you.net:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+http://ninsugi.com:80/live/716370707/D183c3278p/118887.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/240.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate H265" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate H265
+http://ninsugi.com:80/live/716370707/D183c3278p/118753.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate UHD" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21232.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
+http://ninsugi.com:80/live/716370707/D183c3278p/238.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD²" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/239.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://storage4you.net:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
+http://ninsugi.com:80/live/716370707/D183c3278p/237.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/687.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central UHD" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21233.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD
+http://ninsugi.com:80/live/716370707/D183c3278p/685.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD²" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/686.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central SD
+http://ninsugi.com:80/live/716370707/D183c3278p/684.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/2612.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+http://ninsugi.com:80/live/716370707/D183c3278p/141263.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21234.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD
+http://ninsugi.com:80/live/716370707/D183c3278p/367045.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/2611.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
+http://ninsugi.com:80/live/716370707/D183c3278p/2609.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel FHD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/2577.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21338.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
+http://ninsugi.com:80/live/716370707/D183c3278p/2575.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD²" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/2576.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel SD
+http://ninsugi.com:80/live/716370707/D183c3278p/2574.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health FHD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
+http://ninsugi.com:80/live/716370707/D183c3278p/2572.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health UHD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
+http://ninsugi.com:80/live/716370707/D183c3278p/21295.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
+http://ninsugi.com:80/live/716370707/D183c3278p/2570.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health HD²" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD²
+http://ninsugi.com:80/live/716370707/D183c3278p/2571.m3u8
