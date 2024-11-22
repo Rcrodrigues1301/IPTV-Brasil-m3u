@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD²" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
 http://ninsugi.com:80/live/716370707/D183c3278p/701.m3u8
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
