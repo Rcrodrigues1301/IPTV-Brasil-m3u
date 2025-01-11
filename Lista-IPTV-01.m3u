@@ -1,3 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284576.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284578.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere 2 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284579.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN3 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284580.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN4 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284581.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX SPORTS 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284582.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX Sports 2 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284583.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284584.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN Extra 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284585.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284587.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284589.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284590.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News 4K " tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | 4K",Jovem Pan News 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284593.m3u8
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | 4K",Universal TV 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284596.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Action 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284597.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Pipoca 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284598.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Premium 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284599.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | 4K",AXN 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284601.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC  4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | 4K",AMC  4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284602.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/HBO.png" group-title="Canais | 4K",HBO 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284603.m3u8
+#EXTINF:-1 tvg-id="Discoveryhomehealth.br" tvg-name="Disc. Home &  Health 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284604.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channe 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Disc. Channe 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284605.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | 4K",Animal Planet 4K 
+http://nunoborn.net:80/live/778890309/h731v7030e/284607.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | 4K",Cartoon Network 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284611.m3u8
+#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/STARCHANNEL.png" group-title="Canais | 4K",Star Channel 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284612.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | 4K",Curta! 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284614.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/VIVA.png" group-title="Canais | 4K",Viva 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284616.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | 4K",Disc. Turbo 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284618.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | 4K",Comedy Central 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/284620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Silvio Santos" tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Silvio Santos
+http://nunoborn.net:80/live/778890309/h731v7030e/390581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Novelas " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Novelas 
+http://nunoborn.net:80/live/778890309/h731v7030e/390578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Sa煤de " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Sa煤de 
+http://nunoborn.net:80/live/778890309/h731v7030e/390579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ S茅ries " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ S茅ries 
+http://nunoborn.net:80/live/778890309/h731v7030e/390580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Informa莽茫o " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Informa莽茫o 
+http://nunoborn.net:80/live/778890309/h731v7030e/390576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Humor" tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Humor
+http://nunoborn.net:80/live/778890309/h731v7030e/390575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ Crian莽a" tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Crian莽a
+http://nunoborn.net:80/live/778890309/h731v7030e/390574.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="SBT+ Cinema " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Cinema 
+http://nunoborn.net:80/live/778890309/h731v7030e/390573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ POP " tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ POP 
+http://nunoborn.net:80/live/778890309/h731v7030e/390577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYN" tvg-logo="http://beststorage4you.com:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ TVZYN
+http://nunoborn.net:80/live/778890309/h731v7030e/390582.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/289881.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/289882.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD
+http://nunoborn.net:80/live/778890309/h731v7030e/289883.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/289884.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP SD
+http://nunoborn.net:80/live/778890309/h731v7030e/289885.m3u8
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="Eventos Extras FHD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Eventos Extras FHD
 http://nunoborn.net:80/live/778890309/h731v7030e/289716.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Olympia TV HD" tvg-logo="https://play-lh.googleusercontent.com/Ai-PAj1jvQZ3w19r4ExZ2dHvESlbdHCSsQY49wfU9BKxg1llP3u-rnfbhKy37-JCnIo" group-title="Canais | Pay-per-view",Olympia TV HD
@@ -28,6 +117,64 @@ http://nunoborn.net:80/live/778890309/h731v7030e/215.m3u8
 http://nunoborn.net:80/live/778890309/h731v7030e/52091.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 2 HD
 http://nunoborn.net:80/live/778890309/h731v7030e/213.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 2 H265
+http://nunoborn.net:80/live/778890309/h731v7030e/214.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 2 SD
+http://nunoborn.net:80/live/778890309/h731v7030e/212.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/220.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 3 UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21235.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 3 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/218.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 3 H265
+http://nunoborn.net:80/live/778890309/h731v7030e/219.m3u8
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 3 SD
+http://nunoborn.net:80/live/778890309/h731v7030e/217.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/225.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21318.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/223.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 H265
+http://nunoborn.net:80/live/778890309/h731v7030e/224.m3u8
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 SD
+http://nunoborn.net:80/live/778890309/h731v7030e/222.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN Extra HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra HD
+http://nunoborn.net:80/live/778890309/h731v7030e/228.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN Extra SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra SD
+http://nunoborn.net:80/live/778890309/h731v7030e/227.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Aquecimento A Fazenda " tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",Aquecimento A Fazenda 
+http://nunoborn.net:80/live/778890309/h731v7030e/397630.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 1 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/398918.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 2 HD " tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 2 HD 
+http://nunoborn.net:80/live/778890309/h731v7030e/397631.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 3 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/397632.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 4 HD " tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 4 HD 
+http://nunoborn.net:80/live/778890309/h731v7030e/397633.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/397634.m3u8
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 6 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/398922.m3u8
+#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/376344.m3u8
+#EXTINF:-1 tvg-id="Adultswim.br" tvg-name="Adult Swim HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Swin.png" group-title="Canais |  Variedades ",Adult Swim HD
+http://nunoborn.net:80/live/778890309/h731v7030e/376345.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/118881.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV H265
+http://nunoborn.net:80/live/778890309/h731v7030e/52090.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21275.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV HD
+http://nunoborn.net:80/live/778890309/h731v7030e/547.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV SD
+http://nunoborn.net:80/live/778890309/h731v7030e/546.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/554.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 2 H265
 http://nunoborn.net:80/live/778890309/h731v7030e/214.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 2 SD
@@ -150,3 +297,501 @@ http://nunoborn.net:80/live/778890309/h731v7030e/369565.m3u8
 http://nunoborn.net:80/live/778890309/h731v7030e/369566.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Kingpyn Boxing FHD" tvg-logo="https://pbs.twimg.com/media/FrcKkJ7WAAA6-Er.jpg" group-title="Canais | Pay-per-view",Kingpyn Boxing FHD
 http://nunoborn.net:80/live/778890309/h731v7030e/250915.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/666.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21292.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
+http://nunoborn.net:80/live/778890309/h731v7030e/664.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/665.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
+http://nunoborn.net:80/live/778890309/h731v7030e/663.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/464.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
+http://nunoborn.net:80/live/778890309/h731v7030e/462.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
+http://nunoborn.net:80/live/778890309/h731v7030e/461.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/671.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/59171.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
+http://nunoborn.net:80/live/778890309/h731v7030e/669.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/670.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
+http://nunoborn.net:80/live/778890309/h731v7030e/668.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2602.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
+http://nunoborn.net:80/live/778890309/h731v7030e/141261.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/22305.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
+http://nunoborn.net:80/live/778890309/h731v7030e/365234.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2601.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
+http://nunoborn.net:80/live/778890309/h731v7030e/365235.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2607.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+http://nunoborn.net:80/live/778890309/h731v7030e/141262.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21222.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/367046.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2606.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD " tvg-logo="http://beststorage4you.com:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 SD 
+http://nunoborn.net:80/live/778890309/h731v7030e/367047.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/676.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21223.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
+http://nunoborn.net:80/live/778890309/h731v7030e/674.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/675.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
+http://nunoborn.net:80/live/778890309/h731v7030e/673.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Baby TV SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BABYTV.png" group-title="Canais | Infantil",Baby TV SD
+http://nunoborn.net:80/live/778890309/h731v7030e/349.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/469.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/118883.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
+http://nunoborn.net:80/live/778890309/h731v7030e/467.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/468.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News SD
+http://nunoborn.net:80/live/778890309/h731v7030e/466.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/235.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports H265
+http://nunoborn.net:80/live/778890309/h731v7030e/118755.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21225.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD
+http://nunoborn.net:80/live/778890309/h731v7030e/233.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/234.m3u8
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports SD
+http://nunoborn.net:80/live/778890309/h731v7030e/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brtvmax FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/385617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brtvmax HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax HD
+http://nunoborn.net:80/live/778890309/h731v7030e/385618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brtvmax SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Brtvmax.png" group-title="Canais | Pay-per-view",Brtvmax SD
+http://nunoborn.net:80/live/778890309/h731v7030e/385619.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/376501.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/376504.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS HD
+http://nunoborn.net:80/live/778890309/h731v7030e/376503.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS SD
+http://nunoborn.net:80/live/778890309/h731v7030e/376502.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/146.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
+http://nunoborn.net:80/live/778890309/h731v7030e/145.m3u8
+#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 01" tvg-logo="http://beststorage4you.com:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 01
+http://nunoborn.net:80/live/778890309/h731v7030e/18289.m3u8
+#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 02" tvg-logo="http://beststorage4you.com:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 02
+http://nunoborn.net:80/live/778890309/h731v7030e/18288.m3u8
+#EXTINF:-1 tvg-id="Canalvoleibrasil.br" tvg-name="CANAL DO VOLEI 03" tvg-logo="http://beststorage4you.com:2095/logoscanais/CANALVOLEIBRASIL.png" group-title="Canais | Pay-per-view",CANAL DO VOLEI 03
+http://nunoborn.net:80/live/778890309/h731v7030e/18287.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/702.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21229.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
+http://nunoborn.net:80/live/778890309/h731v7030e/700.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/701.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
+http://nunoborn.net:80/live/778890309/h731v7030e/699.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/352.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21230.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
+http://nunoborn.net:80/live/778890309/h731v7030e/351.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/367317.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
+http://nunoborn.net:80/live/778890309/h731v7030e/350.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/110683.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/368110.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
+http://nunoborn.net:80/live/778890309/h731v7030e/110684.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/682.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
+http://nunoborn.net:80/live/778890309/h731v7030e/680.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21353.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/380909.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://nunoborn.net:80/live/778890309/h731v7030e/472.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+http://nunoborn.net:80/live/778890309/h731v7030e/471.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional  HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+http://nunoborn.net:80/live/778890309/h731v7030e/118886.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+http://nunoborn.net:80/live/778890309/h731v7030e/118887.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/527505.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil HD
+http://nunoborn.net:80/live/778890309/h731v7030e/527506.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil SD
+http://nunoborn.net:80/live/778890309/h731v7030e/527507.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNBC Brasil HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNBC Brasil HD
+http://nunoborn.net:80/live/778890309/h731v7030e/527504.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/240.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate H265
+http://nunoborn.net:80/live/778890309/h731v7030e/118753.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21232.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD
+http://nunoborn.net:80/live/778890309/h731v7030e/238.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/239.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate SD
+http://nunoborn.net:80/live/778890309/h731v7030e/237.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/687.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21233.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD
+http://nunoborn.net:80/live/778890309/h731v7030e/685.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/686.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central SD
+http://nunoborn.net:80/live/778890309/h731v7030e/684.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2612.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+http://nunoborn.net:80/live/778890309/h731v7030e/141263.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! HD
+http://nunoborn.net:80/live/778890309/h731v7030e/367045.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2611.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta! SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2609.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2577.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21338.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2575.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/2576.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channel SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2574.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2572.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21295.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2570.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/2571.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Home &  Health SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2569.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2582.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21297.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2580.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2581.m3u8
+#EXTINF:-1 tvg-id="Discscience.br" tvg-name="Disc. Science SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2579.m3u8
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2587.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Theater UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21298.m3u8
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2585.m3u8
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater FHD H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater FHD H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2586.m3u8
+#EXTINF:-1 tvg-id="Disctheater.br" tvg-name="Disc. Theater SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2584.m3u8
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2592.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21299.m3u8
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2590.m3u8
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo FHD H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo FHD H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2591.m3u8
+#EXTINF:-1 tvg-id="Discturbo.br" tvg-name="Disc. Turbo SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2589.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2597.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21300.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2595.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World H265
+http://nunoborn.net:80/live/778890309/h731v7030e/2596.m3u8
+#EXTINF:-1 tvg-id="Discworld.br" tvg-name="Disc. World SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2594.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/364.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/367319.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids HD
+http://nunoborn.net:80/live/778890309/h731v7030e/363.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids H265
+http://nunoborn.net:80/live/778890309/h731v7030e/367320.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISCOVERYKIDS.png" group-title="Canais | Infantil",Discovery Kids SD
+http://nunoborn.net:80/live/778890309/h731v7030e/362.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/360.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/358.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD
+http://nunoborn.net:80/live/778890309/h731v7030e/356.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/367318.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="Disney Channel SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel SD
+http://nunoborn.net:80/live/778890309/h731v7030e/355.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2472.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21313.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2471.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E! SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2470.m3u8
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO 01" tvg-logo="http://beststorage4you.com:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 01
+http://nunoborn.net:80/live/778890309/h731v7030e/18297.m3u8
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO 02" tvg-logo="http://beststorage4you.com:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 02
+http://nunoborn.net:80/live/778890309/h731v7030e/18296.m3u8
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO 03" tvg-logo="http://beststorage4you.com:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 03
+http://nunoborn.net:80/live/778890309/h731v7030e/18295.m3u8
+#EXTINF:-1 tvg-id="F1tv.br" tvg-name="F1 TV PRO 04" tvg-logo="http://beststorage4you.com:2095/logoscanais/F1.png" group-title="Canais | Pay-per-view",F1 TV PRO 04
+http://nunoborn.net:80/live/778890309/h731v7030e/18294.m3u8
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FASHIONTV.png" group-title="Canais |  Variedades ",Fashion TV FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2476.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/249.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV HD
+http://nunoborn.net:80/live/778890309/h731v7030e/248.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV SD
+http://nunoborn.net:80/live/778890309/h731v7030e/247.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2480.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21237.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2479.m3u8
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2478.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",ESPN 6 FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/245.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",ESPN 6 4K
+http://nunoborn.net:80/live/778890309/h731v7030e/21317.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",ESPN 6 HD
+http://nunoborn.net:80/live/778890309/h731v7030e/243.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 6 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",ESPN 6 SD
+http://nunoborn.net:80/live/778890309/h731v7030e/242.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/594.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD
+http://nunoborn.net:80/live/778890309/h731v7030e/592.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/593.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX SD
+http://nunoborn.net:80/live/778890309/h731v7030e/591.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2452.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/365104.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2451.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/365115.m3u8
+#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2450.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2376.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ UHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ UHD
+http://nunoborn.net:80/live/778890309/h731v7030e/21319.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2374.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/2375.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2373.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2389.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2388.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2387.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo EPTV Central Sao Carlos FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2392.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo EPTV Central Sao Carlos HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2391.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeir茫o Preto FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeir茫o Preto FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2386.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeir茫o Preto HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeir茫o Preto HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2385.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Ribeir茫o Preto SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeir茫o Preto SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2384.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2383.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2382.m3u8
+#EXTINF:-1 tvg-id="Eptvsp.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2381.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2437.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2436.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2435.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2380.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2378.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/2379.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2377.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2428.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2427.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/362062.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2426.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/274514.m3u8
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas HD
+http://nunoborn.net:80/live/778890309/h731v7030e/274515.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2290.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau H265" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau H265
+http://nunoborn.net:80/live/778890309/h731v7030e/360674.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2289.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2288.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2458.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2457.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/365209.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2456.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2310.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2309.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2308.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2296.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2295.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2294.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2302.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2301.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/360916.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2300.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2305.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2304.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville HD虏" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville HD虏
+http://nunoborn.net:80/live/778890309/h731v7030e/360918.m3u8
+#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo NSC TV Joinville SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2303.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2313.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2312.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV POA SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2311.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Uruguaiana HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Uruguaiana HD
+http://nunoborn.net:80/live/778890309/h731v7030e/389118.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Uruguaiana SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Uruguaiana SD
+http://nunoborn.net:80/live/778890309/h731v7030e/389119.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2307.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2306.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Caxias do Sul SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul SD
+http://nunoborn.net:80/live/778890309/h731v7030e/360931.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2331.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2330.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Passo Fundo SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2329.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2328.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2327.m3u8
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2326.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2334.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2333.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Rosa HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RBS TV Santa Rosa HD
+http://nunoborn.net:80/live/778890309/h731v7030e/377627.m3u8
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2355.m3u8
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2354.m3u8
+#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2353.m3u8
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2358.m3u8
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2357.m3u8
+#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2356.m3u8
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2361.m3u8
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2360.m3u8
+#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2359.m3u8
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2364.m3u8
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2363.m3u8
+#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2362.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2299.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel HD
+http://nunoborn.net:80/live/778890309/h731v7030e/2298.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Cascavel SD
+http://nunoborn.net:80/live/778890309/h731v7030e/2297.m3u8
+#EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Londrina FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais |  Globo Sul",Globo RPC Londrina FHD
+http://nunoborn.net:80/live/778890309/h731v7030e/2346.m3u8
