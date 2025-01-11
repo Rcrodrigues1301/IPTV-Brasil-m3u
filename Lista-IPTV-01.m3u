@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
-http://nunoborn.net:80/live/778890309/h731v7030e/284576.m3u8
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284578.m3u8
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere 2 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284579.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN3 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284580.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN4 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284581.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX SPORTS 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284582.m3u8
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX Sports 2 4K
-http://nunoborn.net:80/live/778890309/h731v7030e/284583.m3u8
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284584.m3u8
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN Extra 4K 
-http://nunoborn.net:80/live/778890309/h731v7030e/284585.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP 4K
-http://nunoborn.net:80/live/778890309/h731v7030e/284587.m3u8
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews 4K 
 http://nunoborn.net:80/live/778890309/h731v7030e/284589.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://beststorage4you.com:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
