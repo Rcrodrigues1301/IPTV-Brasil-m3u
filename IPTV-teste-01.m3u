@@ -193,4 +193,1224 @@ http://dnsul.top:80/live/paquita/pai/143154.m3u8
 http://dnsul.top:80/live/paquita/pai/143145.m3u8
 #EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GB SP TV FRONTEIRA PRESIDENTE PRUDENTE SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB SP TV FRONTEIRA PRESIDENTE PRUDENTE SD
 http://dnsul.top:80/live/paquita/pai/143144.m3u8
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP CAPITAL HD" tvg-logo="https://i.imgur.com/zS
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP CAPITAL HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD SP CAPITAL HD
+http://dnsul.top:80/live/paquita/pai/143410.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP CAPITAL SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD SP CAPITAL SD
+http://dnsul.top:80/live/paquita/pai/143409.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ CAPITAL HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD RJ CAPITAL HD
+http://dnsul.top:80/live/paquita/pai/143406.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ CAPITAL SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD RJ CAPITAL SD
+http://dnsul.top:80/live/paquita/pai/143405.m3u8
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RECORD BA ITAPOAN HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD BA ITAPOAN HD
+http://dnsul.top:80/live/paquita/pai/143380.m3u8
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RECORD BA ITAPOAN SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD BA ITAPOAN SD
+http://dnsul.top:80/live/paquita/pai/233352.m3u8
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELEM HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD BELEM HD
+http://dnsul.top:80/live/paquita/pai/143401.m3u8
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="RECORD BELEM SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD BELEM SD
+http://dnsul.top:80/live/paquita/pai/143400.m3u8
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD DF HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD DF HD
+http://dnsul.top:80/live/paquita/pai/143399.m3u8
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD DF HD [ALTER]" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD DF HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/143378.m3u8
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD DF SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD DF SD
+http://dnsul.top:80/live/paquita/pai/143398.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD CAMPINAS HD
+http://dnsul.top:80/live/paquita/pai/143397.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD CAMPINAS SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD CAMPINAS SD
+http://dnsul.top:80/live/paquita/pai/143396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD MANAUS HD
+http://dnsul.top:80/live/paquita/pai/143393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD MANAUS SD
+http://dnsul.top:80/live/paquita/pai/143392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD MINAS HD
+http://dnsul.top:80/live/paquita/pai/143391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD MINAS SD
+http://dnsul.top:80/live/paquita/pai/143390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD RS HD
+http://dnsul.top:80/live/paquita/pai/143389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD RS SD
+http://dnsul.top:80/live/paquita/pai/143388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ES HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD ES HD
+http://dnsul.top:80/live/paquita/pai/143379.m3u8
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIAS HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD GOIAS HD
+http://dnsul.top:80/live/paquita/pai/143395.m3u8
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIAS SD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD GOIAS SD
+http://dnsul.top:80/live/paquita/pai/143394.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD TV CIDADE CEARA " tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD TV CIDADE CEARA 
+http://dnsul.top:80/live/paquita/pai/153630.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND SP HD
+http://dnsul.top:80/live/paquita/pai/96852.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND SP SD
+http://dnsul.top:80/live/paquita/pai/139271.m3u8
+#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RJ HD
+http://dnsul.top:80/live/paquita/pai/96848.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SP HD
+http://dnsul.top:80/live/paquita/pai/96875.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD [ALTER]" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SP HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/147177.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SP SD
+http://dnsul.top:80/live/paquita/pai/96874.m3u8
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT RJ HD
+http://dnsul.top:80/live/paquita/pai/96871.m3u8
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT RJ SD
+http://dnsul.top:80/live/paquita/pai/96870.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT PR HD
+http://dnsul.top:80/live/paquita/pai/96862.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT PR SD
+http://dnsul.top:80/live/paquita/pai/96861.m3u8
+#EXTINF:-1 tvg-id="SBTGoianiaTVSerraDourada.br" tvg-name="SBT GO HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT GO HD
+http://dnsul.top:80/live/paquita/pai/181130.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT TV ARATU HD
+http://dnsul.top:80/live/paquita/pai/144486.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT TV ARATU SD
+http://dnsul.top:80/live/paquita/pai/96857.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT JANGADEIRO CE HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT JANGADEIRO CE HD
+http://dnsul.top:80/live/paquita/pai/153965.m3u8
+#EXTINF:-1 tvg-id="SBT Piaui" tvg-name="SBT PI SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT PI SD
+http://dnsul.top:80/live/paquita/pai/152001.m3u8
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="SBT TV JORNAL RECIFE SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT TV JORNAL RECIFE SD
+http://dnsul.top:80/live/paquita/pai/96846.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT DF HD
+http://dnsul.top:80/live/paquita/pai/96860.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SAO LUIZ MA SD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT SAO LUIZ MA SD
+http://dnsul.top:80/live/paquita/pai/59027.m3u8
+#EXTINF:-1 tvg-id="SBT RS HD" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT RS HD
+http://dnsul.top:80/live/paquita/pai/96859.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="CANAL FUTURA HD" tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="ABERTOS",CANAL FUTURA HD
+http://dnsul.top:80/live/paquita/pai/8058.m3u8
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="CANAL FUTURA SD" tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="ABERTOS",CANAL FUTURA SD
+http://dnsul.top:80/live/paquita/pai/8059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA HD" tvg-logo="https://i.imgur.com/MMgY3sd.png" group-title="ABERTOS",TVE BAHIA HD
+http://dnsul.top:80/live/paquita/pai/142903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA SD" tvg-logo="https://i.imgur.com/MMgY3sd.png" group-title="ABERTOS",TVE BAHIA SD
+http://dnsul.top:80/live/paquita/pai/152589.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL HD
+http://dnsul.top:80/live/paquita/pai/8147.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD [ALTER]" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1286.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL SD" tvg-logo="https://i.imgur.com/uHED1Yu.png" group-title="FILMES/SERIES",AMC BRASIL SD
+http://dnsul.top:80/live/paquita/pai/8148.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN HD
+http://dnsul.top:80/live/paquita/pai/8141.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [ALTER]" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1282.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN SD
+http://dnsul.top:80/live/paquita/pai/8142.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&E HD
+http://dnsul.top:80/live/paquita/pai/8149.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD [ALTER]" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&E HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1284.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES/SERIES",A&E SD
+http://dnsul.top:80/live/paquita/pai/8150.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY HD
+http://dnsul.top:80/live/paquita/pai/8125.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD [ALTER]" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/64049.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/HUxIVav.jpg" group-title="FILMES/SERIES",CANAL SONY SD
+http://dnsul.top:80/live/paquita/pai/8126.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX HD
+http://dnsul.top:80/live/paquita/pai/8120.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD [ALTER]" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/24206.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX SD
+http://dnsul.top:80/live/paquita/pai/8121.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD
+http://dnsul.top:80/live/paquita/pai/8116.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD [ALTER]" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/24207.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="FILMES/SERIES",COMEDY CENTRAL SD
+http://dnsul.top:80/live/paquita/pai/8117.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE HD
+http://dnsul.top:80/live/paquita/pai/7936.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [ALTER]" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1124.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="FILMES/SERIES",SPACE SD
+http://dnsul.top:80/live/paquita/pai/7937.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK HD
+http://dnsul.top:80/live/paquita/pai/7969.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK HD [ALTER]" tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1159.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK SD" tvg-logo="https://i.imgur.com/qF6xTv5.png" group-title="FILMES/SERIES",PARAMOUNT NETWORK SD
+http://dnsul.top:80/live/paquita/pai/7970.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM HD
+http://dnsul.top:80/live/paquita/pai/42037.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/iYKinWQ.png" group-title="FILMES/SERIES",TCM SD
+http://dnsul.top:80/live/paquita/pai/7923.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT HD
+http://dnsul.top:80/live/paquita/pai/7906.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD [ALTER]" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1095.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="FILMES/SERIES",TNT SD
+http://dnsul.top:80/live/paquita/pai/7907.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES HD
+http://dnsul.top:80/live/paquita/pai/7904.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [ALTER]" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1093.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="FILMES/SERIES",TNT SERIES SD
+http://dnsul.top:80/live/paquita/pai/7905.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV HD" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV HD
+http://dnsul.top:80/live/paquita/pai/7883.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV HD [ALTER]" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1070.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER TV SD" tvg-logo="https://i.imgur.com/4BsjUJp.png" group-title="FILMES/SERIES",WARNER TV SD
+http://dnsul.top:80/live/paquita/pai/7884.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
+http://dnsul.top:80/live/paquita/pai/7913.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD [ALTER]" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE TELECINE",TELECINE PREMIUM HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1102.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/QzYFhta.png" group-title="REDE TELECINE",TELECINE PREMIUM SD
+http://dnsul.top:80/live/paquita/pai/7914.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
+http://dnsul.top:80/live/paquita/pai/7915.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [ALTER]" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE TELECINE",TELECINE PIPOCA HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1104.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/SKJNOyn.png" group-title="REDE TELECINE",TELECINE PIPOCA SD
+http://dnsul.top:80/live/paquita/pai/7916.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE TELECINE",TELECINE ACTION HD
+http://dnsul.top:80/live/paquita/pai/7921.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD [ALTER]" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE TELECINE",TELECINE ACTION HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1110.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.imgur.com/9EiOsld.png" group-title="REDE TELECINE",TELECINE ACTION SD
+http://dnsul.top:80/live/paquita/pai/7922.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE TELECINE",TELECINE FUN HD
+http://dnsul.top:80/live/paquita/pai/7917.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD [ALTER]" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE TELECINE",TELECINE FUN HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1106.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.imgur.com/W31YdgV.png" group-title="REDE TELECINE",TELECINE FUN SD
+http://dnsul.top:80/live/paquita/pai/7918.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE TELECINE",TELECINE TOUCH HD
+http://dnsul.top:80/live/paquita/pai/7911.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD [ALTER]" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE TELECINE",TELECINE TOUCH HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1100.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/KJQ9kep.png" group-title="REDE TELECINE",TELECINE TOUCH SD
+http://dnsul.top:80/live/paquita/pai/7912.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE TELECINE",TELECINE CULT HD
+http://dnsul.top:80/live/paquita/pai/7919.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD [ALTER]" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE TELECINE",TELECINE CULT HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1108.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.imgur.com/DqXq28p.png" group-title="REDE TELECINE",TELECINE CULT SD
+http://dnsul.top:80/live/paquita/pai/7920.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE TELECINE",MEGAPIX HD
+http://dnsul.top:80/live/paquita/pai/7990.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [ALTER]" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE TELECINE",MEGAPIX HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1174.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="REDE TELECINE",MEGAPIX SD
+http://dnsul.top:80/live/paquita/pai/7991.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE TELECINE",STUDIO UNIVERSAL HD
+http://dnsul.top:80/live/paquita/pai/7928.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD [ALTER]" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE TELECINE",STUDIO UNIVERSAL HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/49137.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://i.imgur.com/KhnVNHM.png" group-title="REDE TELECINE",STUDIO UNIVERSAL SD
+http://dnsul.top:80/live/paquita/pai/7929.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/jDpPint.png" group-title="REDE TELECINE",UNIVERSAL TV HD
+http://dnsul.top:80/live/paquita/pai/7890.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/jDpPint.png" group-title="REDE TELECINE",UNIVERSAL TV SD
+http://dnsul.top:80/live/paquita/pai/7891.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="REDE TELECINE",CANAL BRASIL HD
+http://dnsul.top:80/live/paquita/pai/8127.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="REDE TELECINE",CANAL BRASIL SD
+http://dnsul.top:80/live/paquita/pai/8128.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO HD
+http://dnsul.top:80/live/paquita/pai/8012.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD [ALTER]" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/7164.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO SD
+http://dnsul.top:80/live/paquita/pai/8017.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 HD
+http://dnsul.top:80/live/paquita/pai/8015.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD [ALTER]" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1192.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 SD" tvg-logo="https://i.imgur.com/2dM0BhP.png" group-title="REDE HBO",HBO2 SD
+http://dnsul.top:80/live/paquita/pai/8016.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY HD
+http://dnsul.top:80/live/paquita/pai/8013.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD [ALTER]" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1190.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/QiZ232p.png" group-title="REDE HBO",HBO FAMILY SD
+http://dnsul.top:80/live/paquita/pai/8014.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS HD
+http://dnsul.top:80/live/paquita/pai/8009.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD [ALTER]" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1187.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/kjCSGvS.png" group-title="REDE HBO",HBO PLUS SD
+http://dnsul.top:80/live/paquita/pai/8011.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE HD
+http://dnsul.top:80/live/paquita/pai/8007.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD [ALTER]" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1183.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/zk3ZPZW.png" group-title="REDE HBO",HBO SIGNATURE SD
+http://dnsul.top:80/live/paquita/pai/8008.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi Brazil" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI HD
+http://dnsul.top:80/live/paquita/pai/7997.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi Brazil" tvg-name="HBO MUNDI HD [ALTER]" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1178.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi Brazil" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/5nZVEam.png" group-title="REDE HBO",HBO MUNDI SD
+http://dnsul.top:80/live/paquita/pai/1027.m3u8
+#EXTINF:-1 tvg-id="HBO POP Brazil" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP HD
+http://dnsul.top:80/live/paquita/pai/7992.m3u8
+#EXTINF:-1 tvg-id="HBO POP Brazil" tvg-name="HBO POP HD [ALTER]" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1175.m3u8
+#EXTINF:-1 tvg-id="HBO POP Brazil" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UZVT9xO.png" group-title="REDE HBO",HBO POP SD
+http://dnsul.top:80/live/paquita/pai/7993.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme Brazil" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME HD
+http://dnsul.top:80/live/paquita/pai/7994.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme Brazil" tvg-name="HBO XTREME HD [ALTER]" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1176.m3u8
+#EXTINF:-1 tvg-id="HBO Xtreme Brazil" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/YXPJkwt.png" group-title="REDE HBO",HBO XTREME SD
+http://dnsul.top:80/live/paquita/pai/7996.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE HD
+http://dnsul.top:80/live/paquita/pai/8118.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD [ALTER]" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/6715.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE SD
+http://dnsul.top:80/live/paquita/pai/8119.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV HD
+http://dnsul.top:80/live/paquita/pai/7930.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALTER]" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1119.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV SD
+http://dnsul.top:80/live/paquita/pai/7935.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD [ALTER]" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV SD [ALTER]
+http://dnsul.top:80/live/paquita/pai/7062.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/d71CifI.png" group-title="SPORTV",SPORTV 2 HD
+http://dnsul.top:80/live/paquita/pai/7933.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD [ALTER]" tvg-logo="https://i.imgur.com/d71CifI.png" group-title="SPORTV",SPORTV 2 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1123.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/d71CifI.png" group-title="SPORTV",SPORTV 2 SD
+http://dnsul.top:80/live/paquita/pai/7934.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/vivBLCf.png" group-title="SPORTV",SPORTV 3 HD
+http://dnsul.top:80/live/paquita/pai/7931.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD [ALTER]" tvg-logo="https://i.imgur.com/vivBLCf.png" group-title="SPORTV",SPORTV 3 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1121.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/vivBLCf.png" group-title="SPORTV",SPORTV 3 SD
+http://dnsul.top:80/live/paquita/pai/7932.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES",CANAL OFF HD
+http://dnsul.top:80/live/paquita/pai/7971.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF HD [ALTER]" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES",CANAL OFF HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1160.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF SD" tvg-logo="https://i.imgur.com/BH9075Y.png" group-title="ESPORTES",CANAL OFF SD
+http://dnsul.top:80/live/paquita/pai/7972.m3u8
+#EXTINF:-1 tvg-id="MosaicoPremiere" tvg-name="MOSAICO PREMIERE" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",MOSAICO PREMIERE
+http://dnsul.top:80/live/paquita/pai/167600.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD
+http://dnsul.top:80/live/paquita/pai/7955.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD [ALTER]" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1155.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/9ro74RY.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES SD
+http://dnsul.top:80/live/paquita/pai/1158.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 2 HD
+http://dnsul.top:80/live/paquita/pai/7967.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 2 SD
+http://dnsul.top:80/live/paquita/pai/7968.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 HD
+http://dnsul.top:80/live/paquita/pai/7965.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD [ALTER]" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/5798.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 3 SD
+http://dnsul.top:80/live/paquita/pai/7966.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 HD
+http://dnsul.top:80/live/paquita/pai/7963.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD [ALTER]" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1151.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 4 SD
+http://dnsul.top:80/live/paquita/pai/992.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 HD
+http://dnsul.top:80/live/paquita/pai/7961.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD [ALTER]" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/7098.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 5 SD
+http://dnsul.top:80/live/paquita/pai/991.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 HD
+http://dnsul.top:80/live/paquita/pai/7959.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD [ALTER]" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/4495.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 6 SD
+http://dnsul.top:80/live/paquita/pai/7960.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 HD
+http://dnsul.top:80/live/paquita/pai/7957.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD [ALTER]" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/49126.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 7 SD
+http://dnsul.top:80/live/paquita/pai/7958.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/lEkqxf8.png" group-title="ESPN",ESPN HD
+http://dnsul.top:80/live/paquita/pai/147554.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD [ALTER]" tvg-logo="https://i.imgur.com/lEkqxf8.png" group-title="ESPN",ESPN HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/147553.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/lEkqxf8.png" group-title="ESPN",ESPN SD
+http://dnsul.top:80/live/paquita/pai/147552.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/m2q2JJH.png" group-title="ESPN",ESPN2 HD
+http://dnsul.top:80/live/paquita/pai/8082.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 HD [ALTER]" tvg-logo="https://i.imgur.com/m2q2JJH.png" group-title="ESPN",ESPN2 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1227.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2 SD" tvg-logo="https://i.imgur.com/m2q2JJH.png" group-title="ESPN",ESPN2 SD
+http://dnsul.top:80/live/paquita/pai/8089.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN3 HD" tvg-logo="https://i.imgur.com/Py8Q65E.png" group-title="ESPN",ESPN3 HD
+http://dnsul.top:80/live/paquita/pai/49132.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN3 HD [ALTER]" tvg-logo="https://i.imgur.com/Py8Q65E.png" group-title="ESPN",ESPN3 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/49131.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN3 SD" tvg-logo="https://i.imgur.com/Py8Q65E.png" group-title="ESPN",ESPN3 SD
+http://dnsul.top:80/live/paquita/pai/49133.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN4 HD" tvg-logo="https://i.imgur.com/K2DtUqx.png" group-title="ESPN",ESPN4 HD
+http://dnsul.top:80/live/paquita/pai/8062.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN4 HD [ALTER]" tvg-logo="https://i.imgur.com/K2DtUqx.png" group-title="ESPN",ESPN4 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1215.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN4 SD" tvg-logo="https://i.imgur.com/K2DtUqx.png" group-title="ESPN",ESPN4 SD
+http://dnsul.top:80/live/paquita/pai/8063.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN5 HD" tvg-logo="https://images2.imgbox.com/7a/a3/62YmDd7i_o.png" group-title="ESPN",ESPN5 HD
+http://dnsul.top:80/live/paquita/pai/189973.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN5 SD" tvg-logo="https://images2.imgbox.com/7a/a3/62YmDd7i_o.png" group-title="ESPN",ESPN5 SD
+http://dnsul.top:80/live/paquita/pai/189974.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN6 HD" tvg-logo="https://i.imgur.com/ehTyqwv.png" group-title="ESPN",ESPN6 HD
+http://dnsul.top:80/live/paquita/pai/8083.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN6 HD [ALTER]" tvg-logo="https://i.imgur.com/ehTyqwv.png" group-title="ESPN",ESPN6 HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/139181.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN6 SD" tvg-logo="https://i.imgur.com/ehTyqwv.png" group-title="ESPN",ESPN6 SD
+http://dnsul.top:80/live/paquita/pai/8084.m3u8
+#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RS HD
+http://dnsul.top:80/live/paquita/pai/181129.m3u8
+#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND RS SD
+http://dnsul.top:80/live/paquita/pai/181128.m3u8
+#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND CAMPINAS SD
+http://dnsul.top:80/live/paquita/pai/96845.m3u8
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND BAHIA SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND BAHIA SD
+http://dnsul.top:80/live/paquita/pai/96851.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/rS4Kuai.png" group-title="ESPORTES",BAND SPORTS HD
+http://dnsul.top:80/live/paquita/pai/8134.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD [ALTER]" tvg-logo="https://i.imgur.com/rS4Kuai.png" group-title="ESPORTES",BAND SPORTS HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/24203.m3u8
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/rS4Kuai.png" group-title="ESPORTES",BAND SPORTS SD
+http://dnsul.top:80/live/paquita/pai/8135.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/VIgYLfz.jpg" group-title="ESPORTES",FISH TV HD
+http://dnsul.top:80/live/paquita/pai/8074.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/VIgYLfz.jpg" group-title="ESPORTES",FISH TV SD
+http://dnsul.top:80/live/paquita/pai/8075.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/Qp6kIan.png" group-title="ESPORTES",WOOHOO HD
+http://dnsul.top:80/live/paquita/pai/7881.m3u8
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/Qp6kIan.png" group-title="ESPORTES",WOOHOO SD
+http://dnsul.top:80/live/paquita/pai/7882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 1
+http://dnsul.top:80/live/paquita/pai/146310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 2
+http://dnsul.top:80/live/paquita/pai/146311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 3
+http://dnsul.top:80/live/paquita/pai/146312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 4
+http://dnsul.top:80/live/paquita/pai/146313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 5" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 5
+http://dnsul.top:80/live/paquita/pai/154905.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Amazon Prime" tvg-name="AMAZON PRIME JOGO 6" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 6
+http://dnsul.top:80/live/paquita/pai/185359.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Amazon Prime" tvg-name="AMAZON PRIME JOGO 7" tvg-logo="https://i.imgur.com/Tnk2Uqi.png" group-title="PPV | PRIME VIDEO",AMAZON PRIME JOGO 7
+http://dnsul.top:80/live/paquita/pai/186655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 01 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 01 HD
+http://dnsul.top:80/live/paquita/pai/143376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 02 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 02 HD
+http://dnsul.top:80/live/paquita/pai/143375.m3u8
+#EXTINF:-1 tvg-id="[Jogos] HBO MAX" tvg-name="MAX 03 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 03 HD
+http://dnsul.top:80/live/paquita/pai/143374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 04 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 04 HD
+http://dnsul.top:80/live/paquita/pai/144218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 05 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 05 HD
+http://dnsul.top:80/live/paquita/pai/144217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 06 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 06 HD
+http://dnsul.top:80/live/paquita/pai/144216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 07 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 07 HD
+http://dnsul.top:80/live/paquita/pai/144215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX 08 HD" tvg-logo="https://i.imgur.com/YHi17w9.png" group-title="PPV | HBO MAX",MAX 08 HD
+http://dnsul.top:80/live/paquita/pai/224061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 1 HD
+http://dnsul.top:80/live/paquita/pai/150934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 01 SD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 01 SD
+http://dnsul.top:80/live/paquita/pai/143373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 2 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 2 HD
+http://dnsul.top:80/live/paquita/pai/150933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 02 SD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 02 SD
+http://dnsul.top:80/live/paquita/pai/143372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 3 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 3 HD
+http://dnsul.top:80/live/paquita/pai/150932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 03 SD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 03 SD
+http://dnsul.top:80/live/paquita/pai/143371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 4 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 4 HD
+http://dnsul.top:80/live/paquita/pai/150931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 5 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 5 HD
+http://dnsul.top:80/live/paquita/pai/150930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 6 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 6 HD
+http://dnsul.top:80/live/paquita/pai/150929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 7 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 7 HD
+http://dnsul.top:80/live/paquita/pai/223997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 8 HD" tvg-logo="https://i.ibb.co/NnR6gRT/Disney-Logo-wine.png" group-title="PPV | DISNEY+",DISNEY+ 8 HD
+http://dnsul.top:80/live/paquita/pai/223998.m3u8
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL PARAMOUNT+ 1 HD" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="PPV | PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD
+http://dnsul.top:80/live/paquita/pai/143369.m3u8
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL PARAMOUNT+ 2 HD" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="PPV | PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD
+http://dnsul.top:80/live/paquita/pai/143366.m3u8
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL PARAMOUNT+ 3 HD" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="PPV | PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD
+http://dnsul.top:80/live/paquita/pai/143363.m3u8
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="CONMEBOL PARAMOUNT+ 4 HD" tvg-logo="https://i.imgur.com/bjYTlZe.png" group-title="PPV | PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD
+http://dnsul.top:80/live/paquita/pai/143360.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Nosso Futebol" tvg-name="SPORTYNET¹" tvg-logo="https://i.imgur.com/RwKeLjf.jpeg" group-title="PPV | ESPORTES",SPORTYNET¹
+http://dnsul.top:80/live/paquita/pai/152006.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Nosso Futebol" tvg-name="SPORTYNET²" tvg-logo="https://i.imgur.com/RwKeLjf.jpeg" group-title="PPV | ESPORTES",SPORTYNET²
+http://dnsul.top:80/live/paquita/pai/152005.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Nosso Futebol" tvg-name="SPORTYNET³" tvg-logo="https://i.imgur.com/RwKeLjf.jpeg" group-title="PPV | ESPORTES",SPORTYNET³
+http://dnsul.top:80/live/paquita/pai/152004.m3u8
+#EXTINF:-1 tvg-id="[Jogos] Nosso Futebol" tvg-name="SPORTYNET⁴" tvg-logo="https://i.imgur.com/RwKeLjf.jpeg" group-title="PPV | ESPORTES",SPORTYNET⁴
+http://dnsul.top:80/live/paquita/pai/152003.m3u8
+#EXTINF:-1 tvg-id="Live: DAZN" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="PPV | ESPORTES",DAZN 1
+http://dnsul.top:80/live/paquita/pai/143351.m3u8
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="PPV | ESPORTES",DAZN 2
+http://dnsul.top:80/live/paquita/pai/143350.m3u8
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="PPV | ESPORTES",DAZN 3
+http://dnsul.top:80/live/paquita/pai/143349.m3u8
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="PPV | ESPORTES",DAZN 4
+http://dnsul.top:80/live/paquita/pai/143348.m3u8
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="PPV | ESPORTES",DAZN 5
+http://dnsul.top:80/live/paquita/pai/143347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV+¹ FHD" tvg-logo="https://images2.imgbox.com/29/54/ZAKXz06B_o.png" group-title="PPV | ESPORTES",APPLE TV+¹ FHD
+http://dnsul.top:80/live/paquita/pai/163747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV+² FHD" tvg-logo="https://images2.imgbox.com/29/54/ZAKXz06B_o.png" group-title="PPV | ESPORTES",APPLE TV+² FHD
+http://dnsul.top:80/live/paquita/pai/245570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV+³ FHD" tvg-logo="https://images2.imgbox.com/29/54/ZAKXz06B_o.png" group-title="PPV | ESPORTES",APPLE TV+³ FHD
+http://dnsul.top:80/live/paquita/pai/245571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APPLE TV+⁴ FHD" tvg-logo="https://images2.imgbox.com/29/54/ZAKXz06B_o.png" group-title="PPV | ESPORTES",APPLE TV+⁴ FHD
+http://dnsul.top:80/live/paquita/pai/245572.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL HD
+http://dnsul.top:80/live/paquita/pai/59729.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD [ALTER]" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/60418.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="NOTICIAS",CNN BRASIL SD
+http://dnsul.top:80/live/paquita/pai/59730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL MONEY HD" tvg-logo="https://i.imgur.com/nvUXS1r.jpeg" group-title="NOTICIAS",CNN BRASIL MONEY HD
+http://dnsul.top:80/live/paquita/pai/221457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL MONEY SD" tvg-logo="https://i.imgur.com/nvUXS1r.jpeg" group-title="NOTICIAS",CNN BRASIL MONEY SD
+http://dnsul.top:80/live/paquita/pai/221458.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://dnsul.top:80/live/paquita/pai/140224.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD [ALTER]" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/140850.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/cS4AzBD.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+http://dnsul.top:80/live/paquita/pai/140851.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://dnsul.top:80/live/paquita/pai/8046.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD [ALTER]" tvg-logo="https://i.imgur.com/6tJ9Ap5.png" group-title="NOTICIAS",GLOBO NEWS HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1204.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://dnsul.top:80/live/paquita/pai/8047.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS HD
+http://dnsul.top:80/live/paquita/pai/8136.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS SD
+http://dnsul.top:80/live/paquita/pai/8137.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECO
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW HD
+http://dnsul.top:80/live/paquita/pai/7986.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD [ALTER]" tvg-logo="https://i.imgur.com/p8dxcrL.png" group-title="MUSICAS",MULTISHOW HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1170.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW SD
+http://dnsul.top:80/live/paquita/pai/7987.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV HD
+http://dnsul.top:80/live/paquita/pai/7988.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD [ALTER]" tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/1173.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/B2xFSJD.png" group-title="MUSICAS",MTV SD
+http://dnsul.top:80/live/paquita/pai/7989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE SD" tvg-logo="https://i.imgur.com/6h3XIZd.png" group-title="MUSICAS",MTV LIVE SD
+http://dnsul.top:80/live/paquita/pai/42045.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS HD
+http://dnsul.top:80/live/paquita/pai/8132.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD [ALTER]" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS HD [ALTER]
+http://dnsul.top:80/live/paquita/pai/7278.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="MUSICAS",BIS SD
+http://dnsul.top:80/live/paquita/pai/8133.m3u8
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 HD
+http://dnsul.top:80/live/paquita/pai/7888.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/KUScI97.png" group-title="MUSICAS",PRIME BOX BRAZIL HD
+http://dnsul.top:80/live/paquita/pai/7953.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/KUScI97.png" group-title="MUSICAS",PRIME BOX BRAZIL SD
+http://dnsul.top:80/live/paquita/pai/7954.m3u8
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/AvowH0M.png" group-title="MUSICAS",MUSIC BOX BRAZIL HD
+http://dnsul.top:80/live/paquita/pai/7984.m3u8
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/AvowH0M.png" group-title="MUSICAS",MUSIC BOX BRAZIL SD
+http://dnsul.top:80/live/paquita/pai/7985.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA SD
+http://dnsul.top:80/live/paquita/pai/8124.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA HD
+http://dnsul.top:80/live/paquita/pai/14993.m3u8
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA SD
+http://dnsul.top:80/live/paquita/pai/7943.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://i.ibb.co/35GdPB27/Novo-Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+http://dnsul.top:80/live/paquita/pai/182405.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://i.ibb.co/35GdPB27/Novo-Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
+http://dnsul.top:80/live/paquita/pai/1008.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.imgur.com/15hFGPs.png" group-title="AGRONEGÓCIOS",CANAL DO BOI HD
+http://dnsul.top:80/live/paquita/pai/107683.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://i.imgur.com/15hFGPs.png" group-title="AGRONEGÓCIOS",CANAL DO BOI SD
+http://dnsul.top:80/live/paquita/pai/4896.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="DOCUMENTARIOS",ARTE 1 HD
+http://dnsul.top:80/live/paquita/pai/8143.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="DOCUMENTARIOS",ARTE 1 SD
+http://dnsul.top:80/live/paquita/pai/8144.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA HD
+http://dnsul.top:80/live/paquita/pai/153606.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA SD
+http://dnsul.top:80/live/paquita/pai/7900.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://i.imgur.com/lBi1IPD.png" group-title="ABERTOS",REDE BRASIL SD
+http://dnsul.top:80/live/paquita/pai/7946.m3u8
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="REDE SUPER SD" tvg-logo="https://i.imgur.com/6JZleHB.png" group-title="RELIGIOSOS",REDE SUPER SD
+http://dnsul.top:80/live/paquita/pai/14928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="https://i.imgur.com/tN4WdEA.png" group-title="RELIGIOSOS",RIT TV SD
+http://dnsul.top:80/live/paquita/pai/49468.m3u8
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOGTV HD" tvg-logo="https://i.imgur.com/P4VTZIc.png" group-title="DOCUMENTARIOS",DOGTV HD
+http://dnsul.top:80/live/paquita/pai/60684.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/YVMgq2x.png" group-title="ABERTOS",TV CULTURA HD
+http://dnsul.top:80/live/paquita/pai/96883.m3u8
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/YVMgq2x.png" group-title="ABERTOS",TV CULTURA SD
+http://dnsul.top:80/live/paquita/pai/96882.m3u8
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-name="REDETV! HD" tvg-logo="https://i.imgur.com/npvG194.png" group-title="ABERTOS",REDETV! HD
+http://dnsul.top:80/live/paquita/pai/96879.m3u8
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-name="REDETV! SD" tvg-logo="https://i.imgur.com/npvG194.png" group-title="ABERTOS",REDETV! SD
+http://dnsul.top:80/live/paquita/pai/96878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV HD" tvg-logo="https://seeklogo.com/images/L/LBV-logo-8C93509571-seeklogo.com.png" group-title="RELIGIOSOS",BOA VONTADE TV HD
+http://dnsul.top:80/live/paquita/pai/149957.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.imgur.com/jYqzPir.png" group-title="ABERTOS",TV BRASIL HD
+http://dnsul.top:80/live/paquita/pai/67170.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://i.imgur.com/cO15NVC.png" group-title="AGRONEGÓCIOS",CANAL RURAL HD
+http://dnsul.top:80/live/paquita/pai/157435.m3u8
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://i.imgur.com/cO15NVC.png" group-title="AGRONEGÓCIOS",CANAL RURAL SD
+http://dnsul.top:80/live/paquita/pai/69943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://i.imgur.com/ihHMkNM.png" group-title="RELIGIOSOS",TV EVANGELIZAR SD
+http://dnsul.top:80/live/paquita/pai/69970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="RELIGIOSOS",TV PAI ETERNO
+http://dnsul.top:80/live/paquita/pai/69962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGRO+ HD" tvg-logo="https://i.imgur.com/cP0B767.png" group-title="AGRONEGÓCIOS",AGRO+ HD
+http://dnsul.top:80/live/paquita/pai/107682.m3u8
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/jYqzPir.png" group-title="ABERTOS",TV BRASIL SD
+http://dnsul.top:80/live/paquita/pai/67169.m3u8
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://i.imgur.com/brFkc55.png" group-title="VARIEDADES",TRAVEL BOX BRASIL HD
+http://dnsul.top:80/live/paquita/pai/136934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA SD" tvg-logo="https://i.imgur.com/3ghKsMh.png" group-title="ABERTOS",TRACE BRAZUCA SD
+http://dnsul.top:80/live/paquita/pai/96837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT SP SD" tvg-logo="https://i.imgur.com/Qzg9hy8.png" group-title="ABERTOS",REDE CNT SP SD
+http://dnsul.top:80/live/paquita/pai/144770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://i.imgur.com/zcn8U2N.png" group-title="VARIEDADES",SABOR & ARTE HD
+http://dnsul.top:80/live/paquita/pai/145132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE SD" tvg-logo="https://i.imgur.com/zcn8U2N.png" group-title="VARIEDADES",SABOR & ARTE SD
+http://dnsul.top:80/live/paquita/pai/145133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA HD" tvg-logo="https://i.imgur.com/mkFJRUl.png" group-title="VARIEDADES",TERRA VIVA HD
+http://dnsul.top:80/live/paquita/pai/7910.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV¹" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV¹
+http://dnsul.top:80/live/paquita/pai/152623.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV²" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV²
+http://dnsul.top:80/live/paquita/pai/171319.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV³" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV³
+http://dnsul.top:80/live/paquita/pai/171320.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV⁴" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV⁴
+http://dnsul.top:80/live/paquita/pai/231826.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV⁵" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV⁵
+http://dnsul.top:80/live/paquita/pai/231827.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="CAZÉ TV⁶" tvg-logo="https://i.imgur.com/7EdQjOv.png" group-title="PPV | YOUTUBE+",CAZÉ TV⁶
+http://dnsul.top:80/live/paquita/pai/231828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT¹" tvg-logo="https://i.imgur.com/0SVyApu.jpeg" group-title="PPV | YOUTUBE+",CANAL GOAT¹
+http://dnsul.top:80/live/paquita/pai/186644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT²" tvg-logo="https://i.imgur.com/0SVyApu.jpeg" group-title="PPV | YOUTUBE+",CANAL GOAT²
+http://dnsul.top:80/live/paquita/pai/186645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT³" tvg-logo="https://i.imgur.com/0SVyApu.jpeg" group-title="PPV | YOUTUBE+",CANAL GOAT³
+http://dnsul.top:80/live/paquita/pai/186646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS HD" tvg-logo="https://i.imgur.com/483LuaK.jpg" group-title="PPV | ESPORTES",NSPORTS HD
+http://dnsul.top:80/live/paquita/pai/147244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX KIDS TV HD" tvg-logo="https://i.imgur.com/BrpsG2Q.png" group-title="INFANTIL",BOX KIDS TV HD
+http://dnsul.top:80/live/paquita/pai/147249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX KIDS TV SD" tvg-logo="https://i.postimg.cc/v8XGqB80/Boxkidstv.png" group-title="INFANTIL",BOX KIDS TV SD
+http://dnsul.top:80/live/paquita/pai/253754.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GB CLUBE PIAUÍ HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO NORDESTE",GB CLUBE PIAUÍ HD
+http://dnsul.top:80/live/paquita/pai/151879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYPOCA FILMES HD" tvg-logo="https://i.imgur.com/2vYHJrT.png" group-title="FILMES/SERIES",PLAYPOCA FILMES HD
+http://dnsul.top:80/live/paquita/pai/170458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYPOCA SERIES HD" tvg-logo="https://i.imgur.com/2vYHJrT.png" group-title="FILMES/SERIES",PLAYPOCA SERIES HD
+http://dnsul.top:80/live/paquita/pai/170455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://images2.imgbox.com/63/8c/cp2OQZWM_o.png" group-title="INFANTIL",ADULT SWIM
+http://dnsul.top:80/live/paquita/pai/170462.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GB RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUL",GB RBS TV SANTA MARIA SD
+http://dnsul.top:80/live/paquita/pai/184197.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GB RBS TV SANTA MARIA HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUL",GB RBS TV SANTA MARIA HD
+http://dnsul.top:80/live/paquita/pai/183583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SECULO 21 SD" tvg-logo="https://i.ibb.co/WWcmkg3X/unnamed.png" group-title="RELIGIOSOS",TV SECULO 21 SD
+http://dnsul.top:80/live/paquita/pai/189669.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ALTEROSA MG HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT ALTEROSA MG HD
+http://dnsul.top:80/live/paquita/pai/221693.m3u8
+#EXTINF:-1 tvg-id="SBT TV Ponta Verde HD" tvg-name="SBT PONTA VERDE AL HD" tvg-logo="https://i.imgur.com/vCICOke.png" group-title="REDE SBT",SBT PONTA VERDE AL HD
+http://dnsul.top:80/live/paquita/pai/239518.m3u8
+#EXTINF:-1 tvg-id="+SBT Novelas" tvg-name="+SBT NOVELAS" tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT NOVELAS
+http://dnsul.top:80/live/paquita/pai/214954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+SBT SAUDADE" tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT SAUDADE
+http://dnsul.top:80/live/paquita/pai/214952.m3u8
+#EXTINF:-1 tvg-id="+SBT Raiz" tvg-name="+SBT RAIZ" tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT RAIZ
+http://dnsul.top:80/live/paquita/pai/214950.m3u8
+#EXTINF:-1 tvg-id="+SBT Novelas" tvg-name="+SBT TVZYN" tvg-logo="https://i.imgur.com/Mjmxl18.png" group-title="REDE SBT",+SBT TVZYN
+http://dnsul.top:80/live/paquita/pai/214949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM 10 FHD" tvg-logo="https://i.imgur.com/xxWmLTF.jpeg" group-title="ABERTOS",TCM 10 FHD
+http://dnsul.top:80/live/paquita/pai/221543.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC BRASIL HD" tvg-logo="https://i.imgur.com/3WcjygP.gif" group-title="NOTICIAS",CNBC BRASIL HD
+http://dnsul.top:80/live/paquita/pai/221599.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC BRASIL SD" tvg-logo="https://i.imgur.com/3WcjygP.gif" group-title="NOTICIAS",CNBC BRASIL SD
+http://dnsul.top:80/live/paquita/pai/221600.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 8 HD
+http://dnsul.top:80/live/paquita/pai/222327.m3u8
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://i.imgur.com/tABzDFS.png" group-title="PREMIERE FUTEBOL",PREMIERE 8 SD
+http://dnsul.top:80/live/paquita/pai/222328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="https://i.imgur.com/3BeCByV.png" group-title="RELIGIOSOS",REDE GOSPEL HD
+http://dnsul.top:80/live/paquita/pai/222331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL SD" tvg-logo="https://i.imgur.com/3BeCByV.png" group-title="RELIGIOSOS",REDE GOSPEL SD
+http://dnsul.top:80/live/paquita/pai/222332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SJ. RIO PRETO" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD SJ. RIO PRETO
+http://dnsul.top:80/live/paquita/pai/222333.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO¹" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO¹
+http://dnsul.top:80/live/paquita/pai/185032.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO²" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO²
+http://dnsul.top:80/live/paquita/pai/185360.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO³" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO³
+http://dnsul.top:80/live/paquita/pai/189667.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO⁴" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁴
+http://dnsul.top:80/live/paquita/pai/189668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD" tvg-logo="https://i.imgur.com/l8TrdWd.png" group-title="ABERTOS",REDE MINAS FHD
+http://dnsul.top:80/live/paquita/pai/225094.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO⁵" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁵
+http://dnsul.top:80/live/paquita/pai/186593.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO⁶" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁶
+http://dnsul.top:80/live/paquita/pai/152007.m3u8
+#EXTINF:-1 tvg-id="tvgazetaal" tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/k6McLH2.png" group-title="ABERTOS",TV GAZETA HD
+http://dnsul.top:80/live/paquita/pai/227914.m3u8
+#EXTINF:-1 tvg-id="tvgazetaal" tvg-name="TV GAZETA SD" tvg-logo="https://i.imgur.com/k6McLH2.png" group-title="ABERTOS",TV GAZETA SD
+http://dnsul.top:80/live/paquita/pai/227915.m3u8
+#EXTINF:-1 tvg-id="rbs tv" tvg-name="GB RBS TV SANTA ROSA HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUL",GB RBS TV SANTA ROSA HD
+http://dnsul.top:80/live/paquita/pai/232015.m3u8
+#EXTINF:-1 tvg-id="rbs tv" tvg-name="GB RBS TV SANTA ROSA SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUL",GB RBS TV SANTA ROSA SD
+http://dnsul.top:80/live/paquita/pai/232016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD" tvg-logo="https://i.imgur.com/kFFWyr4.png" group-title="INFANTIL",DREAMWORKS HD
+http://dnsul.top:80/live/paquita/pai/239519.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HD" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.imgur.com/4imC7nA.png" group-title="FILMES/SERIES",UNIVERSAL PREMIERE HD
+http://dnsul.top:80/live/paquita/pai/239524.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://i.imgur.com/bug2DmB.png" group-title="FILMES/SERIES",UNIVERSAL REALITY HD
+http://dnsul.top:80/live/paquita/pai/239522.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO⁷" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁷
+http://dnsul.top:80/live/paquita/pai/152011.m3u8
+#EXTINF:-1 tvg-id="ProgramacaoDiaria" tvg-name="SEM EVENTO⁸" tvg-logo="https://i.imageupload.app/f6f498f9b3379a143e2a.png" group-title="⭐ JOGOS DO DIA",SEM EVENTO⁸
+http://dnsul.top:80/live/paquita/pai/224050.m3u8
+#EXTINF:-1 tvg-id="XSports" tvg-name="X SPORTS HD" tvg-logo="https://i.imgur.com/eQKPl7d.png" group-title="ESPORTES",X SPORTS HD
+http://dnsul.top:80/live/paquita/pai/243199.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GB TV SUBAÉ HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO NORDESTE",GB TV SUBAÉ HD
+http://dnsul.top:80/live/paquita/pai/244628.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GB TV SUBAÉ SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO NORDESTE",GB TV SUBAÉ SD
+http://dnsul.top:80/live/paquita/pai/244629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTVMAX HD" tvg-logo="https://brtvmax.com/wp-content/uploads/2025/08/LogoBRTVMAX-scaled.png" group-title="PPV | ESPORTES",BRTVMAX HD
+http://dnsul.top:80/live/paquita/pai/244726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV EXTRA 2 HD" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV EXTRA 2 HD
+http://dnsul.top:80/live/paquita/pai/246843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV EXTRA 3 HD" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV EXTRA 3 HD
+http://dnsul.top:80/live/paquita/pai/246844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV EXTRA 4 HD" tvg-logo="https://i.imgur.com/Kop5sd3.png" group-title="SPORTV",SPORTV EXTRA 4 HD
+http://dnsul.top:80/live/paquita/pai/246845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE TV¹" tvg-logo="https://i.ibb.co/NghB5v2Y/unnamed.png" group-title="PPV | YOUTUBE+",GE TV¹
+http://dnsul.top:80/live/paquita/pai/246846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE TV²" tvg-logo="https://i.ibb.co/NghB5v2Y/unnamed.png" group-title="PPV | YOUTUBE+",GE TV²
+http://dnsul.top:80/live/paquita/pai/246847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX EVENTOS" tvg-logo="https://i.ibb.co/s4cKTkh/Screenshot-1.png" group-title="PPV | ESPORTES",NETFLIX EVENTOS
+http://dnsul.top:80/live/paquita/pai/247878.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GB ANHANGUERA PALMAS HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA PALMAS HD
+http://dnsul.top:80/live/paquita/pai/248505.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GB ANHANGUERA PALMAS SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA PALMAS SD
+http://dnsul.top:80/live/paquita/pai/248506.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GB ANHANGUERA ARAGUAINA HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA ARAGUAINA HD
+http://dnsul.top:80/live/paquita/pai/248511.m3u8
+#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="GB ANHANGUERA ARAGUAINA SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA ARAGUAINA SD
+http://dnsul.top:80/live/paquita/pai/248512.m3u8
+#EXTINF:-1 tvg-id="TV Guará HD" tvg-name="GB ANHANGUERA GURUPI HD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA GURUPI HD
+http://dnsul.top:80/live/paquita/pai/248508.m3u8
+#EXTINF:-1 tvg-id="TV Guará HD" tvg-name="GB ANHANGUERA GURUPI SD" tvg-logo="https://i.imgur.com/kgD2Dd6.png" group-title="GLOBO SUDESTE",GB ANHANGUERA GURUPI SD
+http://dnsul.top:80/live/paquita/pai/248509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MR OLYMPIA 01" tvg-logo="https://i.ibb.co/3yLzXpvP/Mr-olyp.jpg" group-title="PPV | ESPORTES",MR OLYMPIA 01
+http://dnsul.top:80/live/paquita/pai/250492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MR OLYMPIA 02" tvg-logo="https://i.ibb.co/3yLzXpvP/Mr-olyp.jpg" group-title="PPV | ESPORTES",MR OLYMPIA 02
+http://dnsul.top:80/live/paquita/pai/250491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS HD" tvg-logo="https://i.ibb.co/gLH1YK4D/unnamed.png" group-title="NOTICIAS",SBT NEWS HD
+http://dnsul.top:80/live/paquita/pai/255960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS SD" tvg-logo="https://i.ibb.co/gLH1YK4D/unnamed.png" group-title="NOTICIAS",SBT NEWS SD
+http://dnsul.top:80/live/paquita/pai/255961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BM&C FHD" tvg-logo="https://i.postimg.cc/zBszD1Tx/P1Hn-YHh-400x400.jpg" group-title="NOTICIAS",BM&C FHD
+http://dnsul.top:80/live/paquita/pai/253752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UOL FHD" tvg-logo="https://i.postimg.cc/JhBwR7Wv/ef531434-f8a2-4d2a-b7d0-065bcf6f8eae.png" group-title="NOTICIAS",UOL FHD
+http://dnsul.top:80/live/paquita/pai/253753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEW BRASIL HD" tvg-logo="https://i.postimg.cc/PfvnXc3w/logo-preview.png" group-title="NOTICIAS",NEW BRASIL HD
+http://dnsul.top:80/live/paquita/pai/253751.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PIAUÍ HD" tvg-logo="https://i.imgur.com/zSeoWU1.png" group-title="REDE RECORD",RECORD PIAUÍ HD
+http://dnsul.top:80/live/paquita/pai/253846.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CEARÁ HD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND CEARÁ HD
+http://dnsul.top:80/live/paquita/pai/253847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND CEARÁ SD" tvg-logo="https://i.imgur.com/TQ8WncS.png" group-title="ABERTOS",BAND CEARÁ SD
+http://dnsul.top:80/live/paquita/pai/253848.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA NETWORK HD" tvg-logo="https://i.ibb.co/237Kkqjp/USA-Network-Logo.png" group-title="FILMES/SERIES",USA NETWORK HD
+http://dnsul.top:80/live/paquita/pai/255838.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA NETWORK SD" tvg-logo="https://i.ibb.co/237Kkqjp/USA-Network-Logo.png" group-title="FILMES/SERIES",USA NETWORK SD
+http://dnsul.top:80/live/paquita/pai/255839.m3u8
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/nbN3E8U.png" group-title="NOTICIAS",TV JUSTICA SD
+http://dnsul.top:80/live/paquita/pai/7901.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] A GRANDE FAMÍLIA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] A GRANDE FAMÍLIA
+http://dnsul.top:80/live/paquita/pai/182203.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] 101 DALMATAS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] 101 DALMATAS
+http://dnsul.top:80/live/paquita/pai/143840.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CAVALO DE FOGO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CAVALO DE FOGO
+http://dnsul.top:80/live/paquita/pai/143839.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] AS MENINAS SUPER PODEROSAS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AS MENINAS SUPER PODEROSAS
+http://dnsul.top:80/live/paquita/pai/143838.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] AS TERRÍVEIS AVENTURAS DE BILLY E MANDY" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AS TERRÍVEIS AVENTURAS DE BILLY E MANDY
+http://dnsul.top:80/live/paquita/pai/143837.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MICKEY MOUSE" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MICKEY MOUSE
+http://dnsul.top:80/live/paquita/pai/143836.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] 3 PALAVRINHAS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] 3 PALAVRINHAS
+http://dnsul.top:80/live/paquita/pai/143835.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] A PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] A PANTERA COR DE ROSA
+http://dnsul.top:80/live/paquita/pai/143834.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://dnsul.top:80/live/paquita/pai/143833.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] ZÉ COLMÉIA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] ZÉ COLMÉIA
+http://dnsul.top:80/live/paquita/pai/143832.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] A FORMIGA ATOMICA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] A FORMIGA ATOMICA
+http://dnsul.top:80/live/paquita/pai/143831.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TURMA DA PATETA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TURMA DA PATETA
+http://dnsul.top:80/live/paquita/pai/143830.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] AS AVENTURAS DE  TINTIN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AS AVENTURAS DE  TINTIN
+http://dnsul.top:80/live/paquita/pai/143829.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] A FAMÍLIA ADDAMS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] A FAMÍLIA ADDAMS
+http://dnsul.top:80/live/paquita/pai/143828.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AS AVENTURAS DE JACKIE CHAN
+http://dnsul.top:80/live/paquita/pai/143827.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] A VACA E O FRANGO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] A VACA E O FRANGO
+http://dnsul.top:80/live/paquita/pai/143826.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] ALADDIN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] ALADDIN
+http://dnsul.top:80/live/paquita/pai/143825.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] ANIMANIACS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] ANIMANIACS
+http://dnsul.top:80/live/paquita/pai/143824.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] AVATAR" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AVATAR
+http://dnsul.top:80/live/paquita/pai/143823.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] BACKYARDIGANS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] BACKYARDIGANS
+http://dnsul.top:80/live/paquita/pai/143822.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] BABY LOONEY TUNES" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] BABY LOONEY TUNES
+http://dnsul.top:80/live/paquita/pai/143821.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] BOOBA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] BOOBA
+http://dnsul.top:80/live/paquita/pai/143820.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] THUNDERCATS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] THUNDERCATS
+http://dnsul.top:80/live/paquita/pai/143819.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TAZ MANIA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TAZ MANIA
+http://dnsul.top:80/live/paquita/pai/143811.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] OS CAVALEIROS DO ZODÍACO" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] OS CAVALEIROS DO ZODÍACO
+http://dnsul.top:80/live/paquita/pai/143800.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] FULLMETAL ALCHEMIST" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] FULLMETAL ALCHEMIST
+http://dnsul.top:80/live/paquita/pai/143794.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] GALINHA PINTADINHA
+http://dnsul.top:80/live/paquita/pai/143793.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] DIGIMON S01" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] DIGIMON S01
+http://dnsul.top:80/live/paquita/pai/143792.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] GALINHA PINTADINHA MINI" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] GALINHA PINTADINHA MINI
+http://dnsul.top:80/live/paquita/pai/143791.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] DORA A AVENTUREIRA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] DORA A AVENTUREIRA
+http://dnsul.top:80/live/paquita/pai/143787.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CORAGEM - O CÃO COVARDE" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CORAGEM - O CÃO COVARDE
+http://dnsul.top:80/live/paquita/pai/143786.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CAPITÃO CAVERNA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CAPITÃO CAVERNA
+http://dnsul.top:80/live/paquita/pai/143785.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CAPITÃO PLANETA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CAPITÃO PLANETA
+http://dnsul.top:80/live/paquita/pai/143784.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] URSINHOS CARINHOSOS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] URSINHOS CARINHOSOS
+http://dnsul.top:80/live/paquita/pai/143783.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TURMA DA MÔNICA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TURMA DA MÔNICA
+http://dnsul.top:80/live/paquita/pai/143782.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TROLLS " tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TROLLS 
+http://dnsul.top:80/live/paquita/pai/143781.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TIMÃO E PUMBA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TIMÃO E PUMBA
+http://dnsul.top:80/live/paquita/pai/143780.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] SUPER CHOQUE" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] SUPER CHOQUE
+http://dnsul.top:80/live/paquita/pai/143779.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] STEVEN UNIVERSO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] STEVEN UNIVERSO
+http://dnsul.top:80/live/paquita/pai/143778.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] SAMURAI WARRIORS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] SAMURAI WARRIORS
+http://dnsul.top:80/live/paquita/pai/143777.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] SAILOR MOON" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] SAILOR MOON
+http://dnsul.top:80/live/paquita/pai/143776.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] RICK E MORTY" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] RICK E MORTY
+http://dnsul.top:80/live/paquita/pai/143775.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] POCOYO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] POCOYO
+http://dnsul.top:80/live/paquita/pai/143774.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PINKY E O CÉREBRO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PINKY E O CÉREBRO
+http://dnsul.top:80/live/paquita/pai/143773.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PEPPA PIG" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PEPPA PIG
+http://dnsul.top:80/live/paquita/pai/143772.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PATATI E PATATÁ" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PATATI E PATATÁ
+http://dnsul.top:80/live/paquita/pai/143771.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] OS SUPER PATOS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] OS SUPER PATOS
+http://dnsul.top:80/live/paquita/pai/143770.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] O MÁSKARA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] O MÁSKARA
+http://dnsul.top:80/live/paquita/pai/143769.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] O MUNDO DE BEAKMAN" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] O MUNDO DE BEAKMAN
+http://dnsul.top:80/live/paquita/pai/143768.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] O LABORATÓRIO DE DEXTER" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] O LABORATÓRIO DE DEXTER
+http://dnsul.top:80/live/paquita/pai/143767.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] O INCRÍVEL MUNDO DE GUMBALL
+http://dnsul.top:80/live/paquita/pai/143766.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] NARUTO" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] NARUTO
+http://dnsul.top:80/live/paquita/pai/143765.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MUNDO BITA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MUNDO BITA
+http://dnsul.top:80/live/paquita/pai/143764.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MORTAL KOMBAT" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MORTAL KOMBAT
+http://dnsul.top:80/live/paquita/pai/143763.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MIRACULOUS LADYBUG" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MIRACULOUS LADYBUG
+http://dnsul.top:80/live/paquita/pai/143762.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MEGA MAN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MEGA MAN
+http://dnsul.top:80/live/paquita/pai/143761.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] MEDABOTS" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] MEDABOTS
+http://dnsul.top:80/live/paquita/pai/143760.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] SCOOBY DOO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] SCOOBY DOO
+http://dnsul.top:80/live/paquita/pai/143759.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] OS FLINTSTONES" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] OS FLINTSTONES
+http://dnsul.top:80/live/paquita/pai/143758.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] OS PADRINHOS MAGICOS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] OS PADRINHOS MAGICOS
+http://dnsul.top:80/live/paquita/pai/143752.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PATRULHA CANINA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PATRULHA CANINA
+http://dnsul.top:80/live/paquita/pai/143751.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PAPALEGUAS E COIOTE" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PAPALEGUAS E COIOTE
+http://dnsul.top:80/live/paquita/pai/143748.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PERNALONGA E SUA TURMA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PERNALONGA E SUA TURMA
+http://dnsul.top:80/live/paquita/pai/143746.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] PICA-PAU" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] PICA-PAU
+http://dnsul.top:80/live/paquita/pai/143745.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] POKEMON MINECRAFT" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] POKEMON MINECRAFT
+http://dnsul.top:80/live/paquita/pai/143744.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] LITTLE ANGEL" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] LITTLE ANGEL
+http://dnsul.top:80/live/paquita/pai/143743.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] POKEMON S03" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] POKEMON S03
+http://dnsul.top:80/live/paquita/pai/143742.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] HÉRCULES" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] HÉRCULES
+http://dnsul.top:80/live/paquita/pai/143741.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] HORA DA AVENTURA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] HORA DA AVENTURA
+http://dnsul.top:80/live/paquita/pai/143740.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] HOMEM ARANHA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] HOMEM ARANHA
+http://dnsul.top:80/live/paquita/pai/143739.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] HE-MAN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] HE-MAN
+http://dnsul.top:80/live/paquita/pai/143738.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] GÁRGULAS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] GÁRGULAS
+http://dnsul.top:80/live/paquita/pai/143737.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] FUTURAMA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] FUTURAMA
+http://dnsul.top:80/live/paquita/pai/143736.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] FREAKAZOID!" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] FREAKAZOID!
+http://dnsul.top:80/live/paquita/pai/143735.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] FLY O PEQUENO GUERREIRO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] FLY O PEQUENO GUERREIRO
+http://dnsul.top:80/live/paquita/pai/143734.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] DUCKTALES" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] DUCKTALES
+http://dnsul.top:80/live/paquita/pai/143733.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] DUCK DODGERS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] DUCK DODGERS
+http://dnsul.top:80/live/paquita/pai/143732.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] DU DUDU E EDU" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] DU DUDU E EDU
+http://dnsul.top:80/live/paquita/pai/143731.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] POPEYE" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] POPEYE
+http://dnsul.top:80/live/paquita/pai/143730.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CORRIDA MALUCA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CORRIDA MALUCA
+http://dnsul.top:80/live/paquita/pai/143729.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CAILLOU" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CAILLOU
+http://dnsul.top:80/live/paquita/pai/143728.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] CADILLACS E DINOSSAUROS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CADILLACS E DINOSSAUROS
+http://dnsul.top:80/live/paquita/pai/143726.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] SOUTH PARK" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] SOUTH PARK
+http://dnsul.top:80/live/paquita/pai/143702.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] TOM & JERRY" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] TOM & JERRY
+http://dnsul.top:80/live/paquita/pai/143700.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h]  TRÊS ESPIÃS DEMAIS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h]  TRÊS ESPIÃS DEMAIS
+http://dnsul.top:80/live/paquita/pai/143698.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24h] X-MEN" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] X-MEN
+http://dnsul.top:80/live/paquita/pai/143693.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] CHAVES EM DESENHO ANIMADO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CHAVES EM DESENHO ANIMADO
+http://dnsul.top:80/live/paquita/pai/144012.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] AS VISÕES DA RAVEN " tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] AS VISÕES DA RAVEN 
+http://dnsul.top:80/live/paquita/pai/143999.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BRASIL VISTO DE CIMA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] BRASIL VISTO DE CIMA
+http://dnsul.top:80/live/paquita/pai/143998.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BROOKLYN NINE-NINE" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] BROOKLYN NINE-NINE
+http://dnsul.top:80/live/paquita/pai/143997.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] CHAVES" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] CHAVES
+http://dnsul.top:80/live/paquita/pai/143996.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] CHAPOLIN COLORADO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] CHAPOLIN COLORADO
+http://dnsul.top:80/live/paquita/pai/143995.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] DRAKE & JOSH" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] DRAKE & JOSH
+http://dnsul.top:80/live/paquita/pai/143994.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] KENAN & KEL" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] KENAN & KEL
+http://dnsul.top:80/live/paquita/pai/143992.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] MIB - HOMENS DE PRETO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] MIB - HOMENS DE PRETO
+http://dnsul.top:80/live/paquita/pai/143991.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] MR. BEAN" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] MR. BEAN
+http://dnsul.top:80/live/paquita/pai/143990.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] UMA FAMÍLIA DA PESADA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] UMA FAMÍLIA DA PESADA
+http://dnsul.top:80/live/paquita/pai/143989.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] VAI QUE COLA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] VAI QUE COLA
+http://dnsul.top:80/live/paquita/pai/143988.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] DRAGON BALL SUPER" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] DRAGON BALL SUPER
+http://dnsul.top:80/live/paquita/pai/143987.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BOB ESPONJA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] BOB ESPONJA
+http://dnsul.top:80/live/paquita/pai/143986.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BEYBLADE" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24h] BEYBLADE
+http://dnsul.top:80/live/paquita/pai/143985.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BEN 10" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] BEN 10
+http://dnsul.top:80/live/paquita/pai/143984.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] VIKINGS" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] VIKINGS
+http://dnsul.top:80/live/paquita/pai/143982.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BOKU NO HERO ACADEMIA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] BOKU NO HERO ACADEMIA
+http://dnsul.top:80/live/paquita/pai/143981.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] CAVERNA DO DRAGÃO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] CAVERNA DO DRAGÃO
+http://dnsul.top:80/live/paquita/pai/143973.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] ESCOLINHA DO PROFESSOR RAIMUNDO
+http://dnsul.top:80/live/paquita/pai/143960.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] OS SIMPSONS" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] OS SIMPSONS
+http://dnsul.top:80/live/paquita/pai/143924.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] THE BIG BANG THEORY" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] THE BIG BANG THEORY
+http://dnsul.top:80/live/paquita/pai/143863.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] UM MALUCO NO PEDAÇO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] UM MALUCO NO PEDAÇO
+http://dnsul.top:80/live/paquita/pai/143854.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] DE VOLTA PARA O FUTURO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] DE VOLTA PARA O FUTURO
+http://dnsul.top:80/live/paquita/pai/143853.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] FATE" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] FATE
+http://dnsul.top:80/live/paquita/pai/143852.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] FLASH" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] FLASH
+http://dnsul.top:80/live/paquita/pai/143851.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] ARQUEIRO VERDE" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] ARQUEIRO VERDE
+http://dnsul.top:80/live/paquita/pai/143849.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] AUTHENTIC GAMES" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24h] AUTHENTIC GAMES
+http://dnsul.top:80/live/paquita/pai/143848.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] CASTELO RÁ TIM BUM" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] CASTELO RÁ TIM BUM
+http://dnsul.top:80/live/paquita/pai/143847.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] JASPION" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] JASPION
+http://dnsul.top:80/live/paquita/pai/154313.m3u8
+#EXTINF:-1 tvg-id="24H" tvg-name="RUNTIME TV & FILMES" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME TV & FILMES
+http://dnsul.top:80/live/paquita/pai/225813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME AÇÃO" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME AÇÃO
+http://dnsul.top:80/live/paquita/pai/225821.m3u8
+#EXTINF:-1 tvg-id="24H" tvg-name="RUNTIME COMÉDIA" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME COMÉDIA
+http://dnsul.top:80/live/paquita/pai/225819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CRIME" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME CRIME
+http://dnsul.top:80/live/paquita/pai/225818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME FAMÍLIA" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME FAMÍLIA
+http://dnsul.top:80/live/paquita/pai/225817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ROMANCE" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME ROMANCE
+http://dnsul.top:80/live/paquita/pai/225815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CINE ESPANTO" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME CINE ESPANTO
+http://dnsul.top:80/live/paquita/pai/225820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME MOVIE SPHERE" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME MOVIE SPHERE
+http://dnsul.top:80/live/paquita/pai/225816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME TG BRASIL" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME TG BRASIL
+http://dnsul.top:80/live/paquita/pai/225814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME BRASIL" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME BRASIL
+http://dnsul.top:80/live/paquita/pai/225822.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] TODO MUNDO ODEIA O CHRIS" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] TODO MUNDO ODEIA O CHRIS
+http://dnsul.top:80/live/paquita/pai/155224.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] TODO MUNDO ODEIA O CHRIS²" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24] TODO MUNDO ODEIA O CHRIS²
+http://dnsul.top:80/live/paquita/pai/227397.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] TODO MUNDO ODEIA O CHRIS³" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24] TODO MUNDO ODEIA O CHRIS³
+http://dnsul.top:80/live/paquita/pai/227398.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] TODO MUNDO ODEIA O CHRIS⁴" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24] TODO MUNDO ODEIA O CHRIS⁴
+http://dnsul.top:80/live/paquita/pai/227399.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] BÍBLIA ANIMADA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] BÍBLIA ANIMADA
+http://dnsul.top:80/live/paquita/pai/227590.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] MUNDO BÍBLICO" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] MUNDO BÍBLICO
+http://dnsul.top:80/live/paquita/pai/227591.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] DOIS HOMENS & MEIO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] DOIS HOMENS & MEIO
+http://dnsul.top:80/live/paquita/pai/231802.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] EU A PATROA & AS CRIANÇAS" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] EU A PATROA & AS CRIANÇAS
+http://dnsul.top:80/live/paquita/pai/231801.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] HOMEM DE PRETO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] HOMEM DE PRETO
+http://dnsul.top:80/live/paquita/pai/231800.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24h] BREAKING BADD" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24h] BREAKING BADD
+http://dnsul.top:80/live/paquita/pai/231799.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] DRAGON BALL DAIMA" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24] DRAGON BALL DAIMA
+http://dnsul.top:80/live/paquita/pai/233170.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] POKEMON THE SERIES XY" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24] POKEMON THE SERIES XY
+http://dnsul.top:80/live/paquita/pai/235680.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] TOKYO REVENGERS" tvg-logo="https://i.ibb.co/b5rdhN53/852f1b0c-8474-4b45-bfbc-1bde6841ded4.png" group-title="[24h] ANIMES",[24] TOKYO REVENGERS
+http://dnsul.top:80/live/paquita/pai/235682.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24] PHINEAS E FERB" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] PHINEAS E FERB
+http://dnsul.top:80/live/paquita/pai/236561.m3u8
+#EXTINF:-1 tvg-id="24H" tvg-name="RUNTIME SAGA MARVEL" tvg-logo="https://i.ibb.co/pBXvRX6z/RUM.jpg" group-title="[24h] RUNTIME ESPECIAIS",RUNTIME SAGA MARVEL
+http://dnsul.top:80/live/paquita/pai/236562.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24] O SHOW DO PATRICK ESTRELA" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] O SHOW DO PATRICK ESTRELA
+http://dnsul.top:80/live/paquita/pai/237055.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24] EU E O URSINHO POOH" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] EU E O URSINHO POOH
+http://dnsul.top:80/live/paquita/pai/237413.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24] O PICAPAU AMARELO" tvg-logo="https://i.imgur.com/AHmeYJr.jpg" group-title="[24h] SERIES",[24] O PICAPAU AMARELO
+http://dnsul.top:80/live/paquita/pai/237535.m3u8
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24] BLUEY" tvg-logo="https://i.imgur.com/apvTsI0.jpg" group-title="[24h] DESENHOS",[24] BLUEY
+http://dnsul.top:80/live/paquita/pai/241112.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD" tvg-logo="https://i.imgur.com/y5veCUH.png" group-title="XXX: CANAIS ADULTOS ",PLAYBOY FHD
+http://dnsul.top:80/live/paquita/pai/13440.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY FHD H265" tvg-logo="https://i.imgur.com/y5veCUH.png" group-title="XXX: CANAIS ADULTOS ",PLAYBOY FHD H265
+http://dnsul.top:80/live/paquita/pai/59039.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY HD" tvg-logo="https://i.imgur.com/y5veCUH.png" group-title="XXX: CANAIS ADULTOS ",PLAYBOY HD
+http://dnsul.top:80/live/paquita/pai/7878.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY SD" tvg-logo="https://i.imgur.com/y5veCUH.png" group-title="XXX: CANAIS ADULTOS ",PLAYBOY SD
+http://dnsul.top:80/live/paquita/pai/7879.m3u8
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="VENUS HD" tvg-logo="https://i.imgur.com/HCE4ofI.png" group-title="XXX: CANAIS ADULTOS ",VENUS HD
+http://dnsul.top:80/live/paquita/pai/7875.m3u8
+#EXTINF:-1 tvg-id="Venus.br" tvg-name="VENUS SD" tvg-logo="https://i.imgur.com/vP7o4Gh.png" group-title="XXX: CANAIS ADULTOS ",VENUS SD
+http://dnsul.top:80/live/paquita/pai/59047.m3u8
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="SEXTREME HD" tvg-logo="https://i.imgur.com/dXph2Cr.png" group-title="XXX: CANAIS ADULTOS ",SEXTREME HD
+http://dnsul.top:80/live/paquita/pai/59045.m3u8
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="SEXTREME SD" tvg-logo="https://i.imgur.com/dXph2Cr.png" group-title="XXX: CANAIS ADULTOS ",SEXTREME SD
+http://dnsul.top:80/live/paquita/pai/7877.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.imgur.com/UhMxWNn.png" group-title="XXX: CANAIS ADULTOS ",SEXY HOT HD
+http://dnsul.top:80/live/paquita/pai/1126.m3u8
+#EXTINF:-1 tvg-id="CanalAdulto.br" tvg-name="XXX: BLUE HUSTLER HD" tvg-logo="https://i.imgur.com/RZgQFqT.png" group-title="XXX: CANAIS ADULTOS ",XXX: BLUE HUSTLER HD
+http://dnsul.top:80/live/paquita/pai/2033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 01" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 01
+http://dnsul.top:80/live/paquita/pai/143119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 02" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 02
+http://dnsul.top:80/live/paquita/pai/143118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 03" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 03
+http://dnsul.top:80/live/paquita/pai/143117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 04" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 04
+http://dnsul.top:80/live/paquita/pai/143116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 05" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 05
+http://dnsul.top:80/live/paquita/pai/143115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 06" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 06
+http://dnsul.top:80/live/paquita/pai/143114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 07" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 07
+http://dnsul.top:80/live/paquita/pai/143113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 08" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 08
+http://dnsul.top:80/live/paquita/pai/143112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 09" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 09
+http://dnsul.top:80/live/paquita/pai/143111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 10" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 10
+http://dnsul.top:80/live/paquita/pai/143110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 11" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 11
+http://dnsul.top:80/live/paquita/pai/143109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 12" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 12
+http://dnsul.top:80/live/paquita/pai/143108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 13" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 13
+http://dnsul.top:80/live/paquita/pai/143107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 14" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 14
+http://dnsul.top:80/live/paquita/pai/143106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 15" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 15
+http://dnsul.top:80/live/paquita/pai/143105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 16" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 16
+http://dnsul.top:80/live/paquita/pai/143104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 17" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 17
+http://dnsul.top:80/live/paquita/pai/143103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 18" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 18
+http://dnsul.top:80/live/paquita/pai/143102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 19" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 19
+http://dnsul.top:80/live/paquita/pai/143101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 20" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 20
+http://dnsul.top:80/live/paquita/pai/143100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 21" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 21
+http://dnsul.top:80/live/paquita/pai/143099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 22" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 22
+http://dnsul.top:80/live/paquita/pai/143098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 23" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 23
+http://dnsul.top:80/live/paquita/pai/143097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 24" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 24
+http://dnsul.top:80/live/paquita/pai/143096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 25" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 25
+http://dnsul.top:80/live/paquita/pai/143095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 26" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 26
+http://dnsul.top:80/live/paquita/pai/143094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 27" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 27
+http://dnsul.top:80/live/paquita/pai/143093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 28" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 28
+http://dnsul.top:80/live/paquita/pai/143092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 29" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 29
+http://dnsul.top:80/live/paquita/pai/143091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 30" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 30
+http://dnsul.top:80/live/paquita/pai/143090.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx ADULTO 31" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 31
+http://dnsul.top:80/live/paquita/pai/143089.m3u8
+#EXTINF:-1 tvg-id="LVADULTOS" tvg-name="xXx ADULTO 32" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 32
+http://dnsul.top:80/live/paquita/pai/143088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 33" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 33
+http://dnsul.top:80/live/paquita/pai/143087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 34" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 34
+http://dnsul.top:80/live/paquita/pai/143086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 35" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 35
+http://dnsul.top:80/live/paquita/pai/143085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 36" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 36
+http://dnsul.top:80/live/paquita/pai/143084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 37" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 37
+http://dnsul.top:80/live/paquita/pai/143083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 38" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 38
+http://dnsul.top:80/live/paquita/pai/143082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 39" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 39
+http://dnsul.top:80/live/paquita/pai/143081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ADULTO 40" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ADULTO 40
+http://dnsul.top:80/live/paquita/pai/143080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx BABES TV" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BABES TV
+http://dnsul.top:80/live/paquita/pai/150928.m3u8
+#EXTINF:-1 tvg-id="LVADULTOS" tvg-name="xXx BANG U" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BANG U
+http://dnsul.top:80/live/paquita/pai/196928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx BRASILEIRINHAS" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BRASILEIRINHAS
+http://dnsul.top:80/live/paquita/pai/196929.m3u8
+#EXTINF:-1 tvg-id="LVADULTOS" tvg-name="xXx BARELY LEGAL TV" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BARELY LEGAL TV
+http://dnsul.top:80/live/paquita/pai/196930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx BRAZZERS TV EUROPE FHD" tvg-logo="https://i.imgur.com/dLGpeBE.png" group-title="XXX: CANAIS ADULTOS ",xXx BRAZZERS TV EUROPE FHD
+http://dnsul.top:80/live/paquita/pai/223771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx CENTO X CENTO" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx CENTO X CENTO
+http://dnsul.top:80/live/paquita/pai/223770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx DESIRE FHD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx DESIRE FHD
+http://dnsul.top:80/live/paquita/pai/223769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx DORCEL FHD¹" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx DORCEL FHD¹
+http://dnsul.top:80/live/paquita/pai/223768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx DORCEL FHD²" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx DORCEL FHD²
+http://dnsul.top:80/live/paquita/pai/223767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx DUSK FHD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx DUSK FHD
+http://dnsul.top:80/live/paquita/pai/223766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx ERO XXX FHD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ERO XXX FHD
+http://dnsul.top:80/live/paquita/pai/223765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE ANAL HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE ANAL HD
+http://dnsul.top:80/live/paquita/pai/223764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE ASIAN HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE ASIAN HD
+http://dnsul.top:80/live/paquita/pai/223763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BABYSITTER HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BABYSITTER HD
+http://dnsul.top:80/live/paquita/pai/223762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BDSM HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BDSM HD
+http://dnsul.top:80/live/paquita/pai/223761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BIG COCK HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BIG COCK HD
+http://dnsul.top:80/live/paquita/pai/223760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BLONDES HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BLONDES HD
+http://dnsul.top:80/live/paquita/pai/223759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BLOWJOB HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BLOWJOB HD
+http://dnsul.top:80/live/paquita/pai/223758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE BRUNETTE HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE BRUNETTE HD
+http://dnsul.top:80/live/paquita/pai/223757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE CREAMPIE HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE CREAMPIE HD
+http://dnsul.top:80/live/paquita/pai/223756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE FISTING HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE FISTING HD
+http://dnsul.top:80/live/paquita/pai/223755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE GANGBANG HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE GANGBANG HD
+http://dnsul.top:80/live/paquita/pai/223754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE LESBIANS HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE LESBIANS HD
+http://dnsul.top:80/live/paquita/pai/223753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE MILF HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE MILF HD
+http://dnsul.top:80/live/paquita/pai/223752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE ORGY HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE ORGY HD
+http://dnsul.top:80/live/paquita/pai/223751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx EROLUXE POV HD" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx EROLUXE POV HD
+http://dnsul.top:80/live/paquita/pai/223750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx BALKAN EROTIC" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BALKAN EROTIC
+http://dnsul.top:80/live/paquita/pai/196931.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx HARDZONE 24H" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx HARDZONE 24H
+http://dnsul.top:80/live/paquita/pai/233171.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx ONLYFANS - AVA KIT" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ONLYFANS - AVA KIT
+http://dnsul.top:80/live/paquita/pai/233173.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx ONLYFANS - ELLY" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx ONLYFANS - ELLY
+http://dnsul.top:80/live/paquita/pai/233172.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx PIRU TV" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx PIRU TV
+http://dnsul.top:80/live/paquita/pai/233174.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx GAY 1" tvg-logo="https://i.ibb.co/WWSSx56C/ADULTO-GAY.png" group-title="XXX: CANAIS ADULTOS LGBT",xXx GAY 1
+http://dnsul.top:80/live/paquita/pai/234874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xXx GAY VIP ⁺¹⁸" tvg-logo="https://i.ibb.co/WWSSx56C/ADULTO-GAY.png" group-title="XXX: CANAIS ADULTOS LGBT",xXx GAY VIP ⁺¹⁸
+http://dnsul.top:80/live/paquita/pai/236563.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx BRUNETTE GIRLLS" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx BRUNETTE GIRLLS
+http://dnsul.top:80/live/paquita/pai/236597.m3u8
+#EXTINF:-1 tvg-id="ADULTOSON" tvg-name="xXx YOUNG GIRLLS" tvg-logo="https://i.imgur.com/iUCua9q.png" group-title="XXX: CANAIS ADULTOS ",xXx YOUNG GIRLLS
+http://dnsul.top:80/live/paquita/pai/236564.m3u8
